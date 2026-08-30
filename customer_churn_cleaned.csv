@@ -1,0 +1,522 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count,tenure_days,churn_risk
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,1982-04-12,,0,,,1994.0,low
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,1,10.0,2.0,1501.0,high
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,1978-02-15,,0,,,1379.0,low
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,2001-08-30,,0,,,2669.0,low
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,1,20.0,1.0,419.0,high
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,1988-12-10,2025-03-18,0,90.0,1.0,1534.0,low
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,0,30.0,1.0,1142.0,high
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,1999-03-14,,0,,,2389.0,low
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,1985-07-07,,0,,,1135.0,low
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,1993-10-29,,0,,,1610.0,low
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1997-01-22,,0,,,1733.0,low
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,1,25.0,1.0,411.0,high
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,2004-12-01,,0,,,2151.0,low
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,1,30.0,1.0,798.0,high
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,0,,,2484.0,low
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,1986-02-28,,0,,,1212.0,med
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,1994-08-19,,0,,,1684.0,med
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,2000-09-02,,0,,,1880.0,low
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,0,90.0,2.0,366.0,high
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,0,,,2259.0,low
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,1977-10-06,,0,,,1338.0,low
+0022-YAXXQ,2023-06-26,Organic,2026-06-25,Basic,Annual,,,19.99,2527,24,0,sophia,Canada,Ontario,Female,1996-06-29,2026-04-06,0,40.0,1.0,1161.0,low
+0023-ZURPX,2021-12-05,Refferal,2023-12-05,Premium,Annual,2024-01-25,Switched to competitor,13.99,2827,75,1,sneha,Australia,NSW,Female,1976-01-23,,0,,,781.0,high
+0024-MKGAZ,2021-12-20,Paid,2024-12-19,Basic,Monthly,,,6.99,528,91,0,ananya,India,Gujarat,Female,1988-11-12,2024-02-26,0,10.0,1.0,1714.0,high
+0025-BCNYW,2020-01-22,Refferal,2022-01-21,Basic,Monthly,,,12.99,160,51,0,nikhil,USA,Texas,Male,1986-03-29,2021-04-04,1,40.0,1.0,2412.0,med
+0026-EYZIR,2024-07-04,Refferal,2026-07-04,Basic,Annual,,,13.99,237,33,0,james,Germany,Bavaria,Male,2001-09-12,2026-02-04,1,20.0,1.0,787.0,low
+0027-GXPPU,2020-12-31,Paid,2022-12-31,Standard,Annual,,,12.99,1251,21,0,vikram,USA,California,Male,1983-10-13,2022-06-20,0,100.0,1.0,2068.0,low
+0028-HDIDA,2024-03-08,Paid,2028-03-07,Basic,Monthly,,,19.99,739,76,0,daniel,India,Tamil Nadu,Male,1974-08-30,2027-12-04,1,80.0,1.0,905.0,high
+0029-LIODE,2020-01-29,Organic,2024-01-28,Basic,Annual,,,6.99,2122,18,0,rohan,Australia,NSW,Male,1976-04-16,,0,,,2405.0,low
+0030-JSRUD,2020-07-11,Paid,2024-07-10,Premium,Monthly,,,6.99,1114,74,0,neha,India,Maharashtra,Female,1999-08-11,,0,,,2241.0,high
+0031-YCLYG,2023-12-22,Refferal,2027-12-21,Premium,Monthly,,,6.99,2830,46,0,daniel,India,Tamil Nadu,Male,1989-11-27,,0,,,982.0,low
+0032-ULDUV,2023-06-03,Organic,2024-06-02,Premium,Monthly,,,19.99,2565,42,0,daniel,USA,California,Male,1990-10-13,2024-02-19,1,100.0,1.0,1184.0,low
+0033-UPNLE,2024-05-10,Refferal,2027-05-10,Basic,Monthly,,,6.99,1416,85,0,keshav,Australia,Victoria,Male,1988-07-23,2027-03-18,1,10.0,1.0,842.0,high
+0034-IYKEE,2020-03-17,Refferal,2024-03-16,Premium,Annual,,,19.99,1751,37,0,manish,Germany,Berlin,Male,1972-05-18,,0,,,2357.0,low
+0035-QHPFW,2020-05-24,Paid,2021-05-24,Basic,Annual,,,9.99,2187,15,0,sophia,Australia,Victoria,Female,1982-10-06,2021-04-02,1,40.0,1.0,2289.0,low
+0036-YQGCY,2022-11-10,Organic,2026-11-09,Standard,Monthly,,,12.99,2964,68,0,manish,Canada,Quebec,Male,1981-06-01,2026-02-21,1,40.0,1.0,1389.0,med
+0037-PYWFT,2020-01-16,Refferal,2022-01-15,Standard,Monthly,,,19.99,1403,28,0,daniel,USA,Texas,Male,1976-09-18,,0,,,2418.0,low
+0038-VXBDQ,2020-12-24,Refferal,2024-12-23,Premium,Annual,,,6.99,416,66,0,divya,India,Maharashtra,Female,1973-03-21,2024-07-10,1,60.0,1.0,2075.0,med
+0039-GGCZU,2022-07-22,Paid,2024-07-21,Premium,Annual,,,12.99,675,48,0,aarav,Germany,Bavaria,Male,1983-04-16,2024-02-19,1,40.0,1.0,1500.0,low
+0040-WBPZU,2024-10-02,Organic,2025-10-02,Standard,Annual,,,9.99,1309,40,0,ananya,Germany,Bavaria,Female,1992-08-31,,0,,,697.0,low
+0041-WQJUU,2023-01-27,Refferal,2027-01-26,Basic,Monthly,,,6.99,1061,6,0,divya,Australia,Victoria,Female,1979-03-25,,0,,,1311.0,low
+0042-LPFPZ,2021-02-15,Refferal,2025-02-14,Premium,Annual,,,6.99,424,7,0,daniel,Canada,Quebec,Male,1976-11-17,2024-09-16,0,10.0,1.0,2022.0,low
+0043-RVWVJ,2020-06-24,Organic,2024-06-23,Basic,Annual,,,9.99,2038,71,0,rahul,India,Karnataka,Male,1996-11-27,2023-10-19,1,10.0,1.0,2258.0,high
+0044-ROJYP,2024-10-07,Paid,2026-10-07,Standard,Annual,,,9.99,1502,45,0,sneha,India,Gujarat,Female,2002-03-03,,0,,,692.0,low
+0045-PNWYR,2024-11-11,Refferal,2026-11-11,Premium,Monthly,,,9.99,2890,17,0,keshav,USA,Texas,Male,1979-03-25,2026-04-21,1,40.0,1.0,657.0,low
+0046-GNDID,2024-10-22,Paid,2028-10-21,Premium,Monthly,,,13.99,1033,59,0,rohan,Canada,Ontario,Male,1988-05-13,2028-06-06,0,60.0,1.0,677.0,med
+0047-SANZU,2020-03-27,Paid,2023-03-27,Basic,Annual,,,19.99,1833,42,0,rahul,USA,Texas,Male,2000-10-02,2022-12-02,1,40.0,1.0,2347.0,low
+0048-PGJSQ,2023-07-22,Organic,2025-07-21,Basic,Monthly,,,19.99,2662,14,0,divya,USA,California,Female,1986-05-13,2024-11-19,1,40.0,1.0,1135.0,low
+0049-WQWUN,2022-02-18,Paid,2025-02-17,Basic,Monthly,,,9.99,1793,95,0,emily,Australia,NSW,Female,1978-03-06,,0,,,1654.0,high
+0050-MULJM,2020-11-30,Refferal,2021-11-30,Premium,Annual,2022-01-11,Switched to competitor,13.99,1565,99,1,divya,Australia,Victoria,Female,1995-08-14,,0,,,407.0,high
+0051-FRLCE,2022-09-25,Organic,2023-09-25,Standard,Monthly,,,6.99,930,10,0,nikhil,India,Maharashtra,Male,1995-08-06,2023-04-10,1,10.0,1.0,1435.0,low
+0052-GDJYW,2022-01-09,Organic,2023-01-09,Basic,Monthly,,,6.99,2697,65,0,keshav,India,Maharashtra,Male,1990-06-07,2022-11-09,1,40.0,1.0,1694.0,med
+0053-XYPXO,2023-10-02,Paid,2025-10-01,Premium,Annual,2025-11-14,Moved away,6.99,1859,98,1,rahul,Australia,Victoria,Male,1981-02-20,2025-03-27,1,20.0,1.0,774.0,high
+0054-JEJCT,2022-10-15,Refferal,2024-10-14,Basic,Annual,,,13.99,1134,50,0,sophia,Germany,Berlin,Female,1981-09-30,2024-06-18,0,60.0,1.0,1415.0,med
+0055-FIMQZ,2022-08-10,Refferal,2024-08-09,Basic,Annual,2024-09-11,Moved away,6.99,563,85,1,daniel,India,Maharashtra,Male,1980-11-04,,0,,,763.0,high
+0056-LERTD,2021-01-11,Refferal,2022-01-11,Premium,Annual,,,13.99,982,47,0,nikhil,Germany,Bavaria,Male,1983-09-25,,0,,,2057.0,low
+0057-CEGWR,2023-01-29,Paid,2024-01-29,Premium,Annual,,,13.99,956,74,0,rahul,USA,California,Male,1996-09-10,,0,,,1309.0,high
+0058-RCUIM,2024-07-15,Paid,2026-07-15,Premium,Annual,,,12.99,2119,27,0,keshav,Germany,Berlin,Male,1991-12-31,2026-01-18,0,100.0,1.0,776.0,low
+0059-FHGIG,2020-05-25,Organic,2023-05-25,Standard,Annual,2023-06-16,Moved away,6.99,1190,91,1,pooja,Australia,NSW,Female,1988-05-28,2023-01-20,0,80.0,1.0,1117.0,high
+0060-TUFUS,2024-02-01,Paid,2026-01-31,Premium,Monthly,,,13.99,940,19,0,neha,Australia,NSW,Female,1989-12-14,2025-10-06,1,40.0,1.0,941.0,low
+0061-OGREQ,2023-06-08,Refferal,2026-06-07,Standard,Monthly,,,6.99,1587,67,0,manish,USA,California,Male,1974-06-04,,0,,,1179.0,med
+0062-CRWFD,2021-11-27,Organic,2024-11-26,Basic,Monthly,,,12.99,2136,8,0,divya,Canada,Ontario,Female,1972-11-08,2024-04-13,1,100.0,1.0,1737.0,low
+0063-FBMDB,2023-05-13,Organic,2024-05-12,Premium,Annual,,,13.99,163,24,0,meera,Canada,Ontario,Female,1990-03-06,2024-02-02,0,100.0,1.0,1205.0,low
+0064-SQBBR,2023-08-29,Paid,2027-08-28,Standard,Monthly,,,12.99,555,12,0,sophia,USA,Florida,Female,1997-08-04,2027-07-21,1,40.0,1.0,1097.0,low
+0065-GULKX,2024-03-21,Refferal,2027-03-21,Premium,Monthly,,,9.99,587,4,0,divya,Australia,NSW,Female,1972-09-30,2027-01-12,0,40.0,1.0,892.0,low
+0066-YAKXP,2023-03-15,Refferal,2026-03-14,Standard,Monthly,,,13.99,1482,29,0,meera,India,Tamil Nadu,Female,1991-09-09,2025-12-09,1,40.0,1.0,1264.0,low
+0067-JRBPX,2024-05-09,Refferal,2026-05-09,Basic,Monthly,,,6.99,776,59,0,ananya,Canada,Quebec,Female,1993-08-21,,0,,,843.0,med
+0068-NKXOE,2021-07-15,Paid,2024-07-14,Standard,Annual,,,6.99,2460,52,0,ananya,Germany,Bavaria,Female,1983-10-04,2023-10-27,0,10.0,1.0,1872.0,med
+0069-JYAEA,2023-10-02,Paid,2025-10-01,Basic,Annual,2025-11-09,Moved away,6.99,169,91,1,rohan,Germany,Bavaria,Male,1983-01-16,,0,,,769.0,high
+0070-DTODP,2020-05-17,Refferal,2022-05-17,Basic,Monthly,,,19.99,663,25,0,rahul,USA,California,Male,1992-10-10,,0,,,2296.0,low
+0071-CPAXL,2022-04-11,Organic,2025-04-10,Basic,Monthly,,,6.99,2313,67,0,sneha,Canada,Ontario,Female,1994-08-13,2025-01-18,0,10.0,1.0,1602.0,med
+0072-NQOWU,2021-11-26,Paid,2024-11-25,Standard,Monthly,,,12.99,2280,14,0,vikram,Canada,Quebec,Male,1980-01-23,2024-09-10,0,100.0,1.0,1738.0,low
+0073-CDMSI,2020-02-21,Organic,2022-02-20,Premium,Monthly,,,13.99,2572,84,0,daniel,India,Tamil Nadu,Male,1992-01-27,2021-09-09,0,10.0,1.0,2382.0,high
+0074-PCDQG,2024-08-28,Paid,2027-08-28,Standard,Monthly,,,19.99,2761,47,0,rohan,India,Karnataka,Male,1996-11-23,2026-11-02,0,20.0,1.0,732.0,low
+0075-FJNMF,2021-10-28,Organic,2025-10-27,Standard,Monthly,,,6.99,2833,62,0,arjun,India,Gujarat,Male,1998-11-24,,0,,,1767.0,med
+0076-SWWKY,2022-09-23,Refferal,2025-09-22,Premium,Monthly,,,19.99,802,2,0,ananya,USA,Florida,Female,1994-08-15,,0,,,1437.0,low
+0077-ATBAP,2021-12-07,Paid,2024-12-06,Standard,Annual,,,12.99,161,14,0,rohan,India,Karnataka,Male,1986-04-11,,0,,,1727.0,low
+0078-BIWZT,2024-04-21,Paid,2028-04-20,Standard,Monthly,,,12.99,1452,25,0,pooja,Australia,NSW,Female,1996-01-05,,0,,,861.0,low
+0079-WAYHT,2021-10-18,Organic,2022-10-18,Premium,Annual,,,9.99,2040,99,0,keshav,Germany,Bavaria,Male,1971-01-01,2022-05-02,1,100.0,1.0,1777.0,high
+0080-ZXMEE,2024-06-09,Refferal,2028-06-08,Standard,Annual,,,9.99,1815,13,0,manish,Australia,Victoria,Male,1978-12-07,2028-04-21,0,80.0,1.0,812.0,low
+0081-PWOKZ,2022-04-13,Refferal,2024-04-12,Basic,Monthly,2024-06-02,Too expensive,9.99,2616,91,1,rohan,USA,California,Male,1984-02-25,2023-07-10,0,60.0,1.0,781.0,high
+0082-TIACP,2020-09-01,Organic,2022-09-01,Standard,Monthly,2022-09-02,Switched to competitor,12.99,1494,91,1,rahul,India,Maharashtra,Male,1978-05-25,,0,,,731.0,high
+0083-MYNFF,2022-06-09,Paid,2023-06-09,Standard,Annual,,,13.99,1273,16,0,rohan,India,Maharashtra,Male,1975-08-01,2022-08-26,0,40.0,1.0,1543.0,low
+0084-FBHUD,2023-09-23,Paid,2024-09-22,Premium,Monthly,,,12.99,453,8,0,pooja,Canada,Quebec,Female,1972-03-20,,0,,,1072.0,low
+0085-KERJG,2021-07-12,Paid,2025-07-11,Standard,Annual,,,9.99,449,3,0,aarav,USA,Florida,Male,1986-12-23,,0,,,1875.0,low
+0086-HOPAH,2021-04-12,Organic,2025-04-11,Basic,Annual,2025-06-06,Switched to competitor,6.99,300,77,1,sneha,Australia,Victoria,Female,1982-10-29,2024-12-08,1,60.0,1.0,1516.0,high
+0087-IUOMK,2020-12-03,Organic,2024-12-02,Basic,Monthly,,,13.99,1384,20,0,arjun,USA,California,Male,1987-06-13,2024-07-31,0,10.0,1.0,2096.0,low
+0088-FCAJB,2023-08-09,Refferal,2027-08-08,Premium,Annual,,,9.99,2840,70,0,manish,Canada,Ontario,Male,1989-04-07,,0,,,1117.0,high
+0089-SHCQH,2020-06-07,Refferal,2023-06-07,Premium,Annual,,,6.99,1740,30,0,manish,Canada,Ontario,Male,1973-07-14,2023-03-25,1,80.0,1.0,2275.0,low
+0090-TCEFE,2021-05-08,Paid,2022-05-08,Standard,Monthly,,,9.99,2429,14,0,keshav,India,Maharashtra,Male,1995-11-22,,0,,,1940.0,low
+0091-VJOKR,2020-11-20,Paid,2023-11-20,Standard,Monthly,2023-12-13,Switched to competitor,19.99,835,73,1,manish,Germany,Bavaria,Male,1980-12-05,,0,,,1118.0,high
+0092-WMCWF,2021-01-06,Paid,2022-01-06,Standard,Annual,,,9.99,2826,43,0,manish,Australia,Victoria,Male,1980-10-05,2021-06-22,0,100.0,1.0,2062.0,low
+0093-SIQKV,2024-09-24,Paid,2028-09-23,Premium,Monthly,,,13.99,668,10,0,arjun,India,Tamil Nadu,Male,1981-06-29,,0,,,705.0,low
+0094-VYSGL,2023-09-18,Organic,2025-09-17,Premium,Annual,2025-09-20,Moved away,9.99,1544,76,1,keshav,Australia,NSW,Male,1988-09-18,,0,,,733.0,high
+0095-ZGJQT,2023-07-22,Organic,2026-07-21,Basic,Monthly,2026-08-19,Too expensive,13.99,353,85,1,rohan,Germany,Bavaria,Male,2000-07-07,2025-12-22,0,100.0,1.0,1124.0,high
+0096-EOAVS,2023-05-22,Refferal,2026-05-21,Standard,Monthly,,,13.99,574,96,0,vikram,India,Tamil Nadu,Male,1974-01-31,2025-11-09,0,10.0,1.0,1196.0,high
+0097-BPRNG,2024-10-08,Refferal,2026-10-08,Premium,Monthly,2026-10-29,Switched to competitor,19.99,2771,79,1,rohan,Germany,Berlin,Male,1987-07-29,2025-12-13,0,80.0,1.0,751.0,high
+0098-GKFAC,2020-06-13,Organic,2024-06-12,Standard,Annual,,,12.99,409,37,0,keshav,USA,California,Male,1970-05-01,,0,,,2269.0,low
+0099-LFEIS,2023-03-05,Paid,2027-03-04,Premium,Annual,2027-04-23,Switched to competitor,12.99,266,95,1,neha,Germany,Berlin,Female,1990-11-16,2026-11-10,0,20.0,1.0,1510.0,high
+0100-EDNJY,2024-12-02,Organic,2027-12-02,Basic,Annual,,,12.99,360,61,0,neha,India,Karnataka,Female,1995-10-11,2027-09-19,0,100.0,1.0,636.0,med
+0101-ZDOIF,2020-01-16,Paid,2024-01-15,Standard,Monthly,,,12.99,1333,67,0,aarav,Canada,Ontario,Male,1988-12-28,2023-06-26,0,60.0,1.0,2418.0,med
+0102-AECJA,2020-02-10,Paid,2024-02-09,Standard,Monthly,,,6.99,858,1,0,ananya,Germany,Berlin,Female,1995-09-26,,0,,,2393.0,low
+0103-SJIWB,2020-01-27,Organic,2022-01-26,Basic,Annual,,,9.99,208,67,0,nikhil,Canada,Quebec,Male,1976-07-20,,0,,,2407.0,med
+0104-ZLIGB,2023-10-30,Refferal,2027-10-29,Basic,Monthly,,,9.99,2923,33,0,neha,USA,Florida,Female,1995-04-29,2027-04-10,0,20.0,1.0,1035.0,low
+0105-AFUJE,2021-01-20,Paid,2023-01-20,Basic,Annual,2023-02-10,Moved away,12.99,2426,100,1,neha,Australia,Victoria,Female,1986-02-02,,0,,,751.0,high
+0106-ZOAIW,2021-10-25,Refferal,2023-10-25,Standard,Annual,,,9.99,799,37,0,rahul,Australia,Victoria,Male,1984-06-09,2023-05-28,0,40.0,1.0,1770.0,low
+0107-LYUAJ,2024-02-29,Organic,2026-02-28,Premium,Monthly,,,9.99,2255,26,0,sophia,Germany,Bavaria,Female,2001-02-15,2026-01-06,1,60.0,1.0,913.0,low
+0108-UZYUM,2020-11-14,Organic,2023-11-14,Standard,Monthly,,,19.99,2715,15,0,manish,Canada,Ontario,Male,1982-05-14,,0,,,2115.0,low
+0109-SZUKM,2023-12-24,Organic,2025-12-23,Standard,Annual,,,19.99,177,5,0,james,Canada,Quebec,Male,1993-03-06,2025-11-09,0,100.0,1.0,980.0,low
+0110-EPNBL,2022-04-30,Organic,2023-04-30,Premium,Annual,,,13.99,494,43,0,nikhil,Australia,NSW,Male,1983-07-30,,0,,,1583.0,low
+0111-CFKTB,2022-10-27,Organic,2026-10-26,Basic,Monthly,2026-11-12,Too expensive,9.99,681,79,1,divya,Australia,Victoria,Female,1993-04-16,2026-01-07,1,40.0,1.0,1477.0,high
+0112-TLURI,2024-03-21,Organic,2026-03-21,Standard,Monthly,,,6.99,2848,47,0,sophia,India,Delhi,Female,1973-03-09,,0,,,892.0,low
+0113-QCQCF,2023-03-03,Refferal,2025-03-02,Standard,Monthly,,,9.99,1359,100,0,sophia,India,Karnataka,Female,1971-09-14,2024-12-27,0,80.0,1.0,1276.0,high
+0114-YTINU,2023-03-11,Paid,2025-03-10,Standard,Annual,,,6.99,2445,28,0,vikram,Canada,Quebec,Male,1971-02-27,2025-01-11,0,20.0,1.0,1268.0,low
+0115-AAKDN,2022-10-01,Refferal,2024-09-30,Premium,Monthly,2024-11-06,Switched to competitor,19.99,2129,75,1,keshav,Australia,Victoria,Male,1971-06-08,,0,,,767.0,high
+0116-AXGSV,2023-12-28,Paid,2024-12-27,Basic,Annual,,,13.99,1807,68,0,sophia,Canada,Quebec,Female,1984-09-06,2024-11-13,1,20.0,1.0,976.0,med
+0117-QVAGX,2020-02-22,Paid,2024-02-21,Premium,Annual,2024-02-29,Switched to competitor,6.99,1595,90,1,daniel,India,Maharashtra,Male,1973-10-19,2023-08-06,1,60.0,1.0,1468.0,high
+0118-QPWST,2021-04-20,Paid,2024-04-19,Standard,Monthly,2024-04-28,Too expensive,19.99,2886,84,1,arjun,Germany,Bavaria,Male,1987-05-08,2023-12-23,0,20.0,1.0,1104.0,high
+0119-FYLJQ,2024-11-10,Organic,2026-11-10,Standard,Monthly,,,13.99,1492,67,0,meera,India,Tamil Nadu,Female,1994-11-15,,0,,,658.0,med
+0120-OPYYR,2023-03-16,Organic,2024-03-15,Premium,Monthly,,,13.99,2592,2,0,sneha,USA,Florida,Female,1989-01-19,2023-12-16,1,10.0,1.0,1263.0,low
+0121-WHAGY,2021-10-22,Paid,2025-10-21,Standard,Monthly,,,6.99,536,77,0,kavya,Australia,Victoria,Female,1989-01-09,,0,,,1773.0,high
+0122-SDIJD,2024-09-28,Paid,2028-09-27,Basic,Annual,,,6.99,1181,55,0,daniel,India,Delhi,Male,1976-05-05,2027-12-06,1,80.0,1.0,701.0,med
+0123-WJLHI,2023-11-17,Organic,2027-11-16,Standard,Monthly,2027-12-04,Switched to competitor,13.99,346,89,1,ananya,India,Karnataka,Female,1998-02-03,2027-05-09,1,40.0,1.0,1478.0,high
+0124-SXNHJ,2020-06-28,Paid,2021-06-28,Premium,Annual,2021-08-12,Too expensive,19.99,244,79,1,divya,Germany,Berlin,Female,2001-05-29,2020-12-26,1,100.0,1.0,410.0,high
+0125-MKQYY,2022-11-29,Refferal,2025-11-28,Premium,Monthly,,,9.99,1748,6,0,nikhil,Canada,Ontario,Male,1994-08-01,2025-08-18,0,80.0,1.0,1370.0,low
+0126-BXRPI,2022-11-21,Organic,2025-11-20,Premium,Monthly,,,9.99,2008,45,0,arjun,Australia,Victoria,Male,1984-05-11,2025-10-04,0,100.0,1.0,1378.0,low
+0127-LQUEL,2022-11-20,Paid,2026-11-19,Standard,Monthly,,,13.99,2528,64,0,manish,Germany,Berlin,Male,1996-05-13,,0,,,1379.0,med
+0128-ZRJVQ,2020-01-18,Paid,2024-01-17,Premium,Annual,,,6.99,1359,30,0,ananya,Australia,Victoria,Female,1972-04-29,,0,,,2416.0,low
+0129-OMYPL,2021-04-05,Organic,2025-04-04,Standard,Monthly,,,19.99,1986,2,0,daniel,Australia,Victoria,Male,1996-07-28,2024-11-23,1,100.0,1.0,1973.0,low
+0130-HJUSK,2024-09-02,Organic,2025-09-02,Premium,Annual,,,9.99,1490,84,0,rohan,Canada,Ontario,Male,1978-02-14,,0,,,727.0,high
+0131-YVZGK,2022-09-19,Refferal,2024-09-18,Standard,Annual,,,13.99,1186,31,0,rohan,Canada,Ontario,Male,1986-11-03,,0,,,1441.0,low
+0132-NZNJK,2024-05-08,Paid,2027-05-08,Basic,Monthly,,,19.99,756,79,0,rohan,Germany,Berlin,Male,1995-09-14,2027-03-30,0,20.0,1.0,844.0,high
+0133-WGVHB,2021-02-02,Paid,2023-02-02,Basic,Monthly,,,12.99,2902,98,0,rahul,Canada,Ontario,Male,1989-06-28,2022-05-03,1,80.0,1.0,2035.0,high
+0134-NQRHQ,2024-11-23,Organic,2025-11-23,Premium,Monthly,2025-12-13,Moved away,9.99,752,93,1,sneha,Germany,Berlin,Female,1984-05-12,,0,,,385.0,high
+0135-GYLYR,2022-08-10,Paid,2024-08-09,Standard,Monthly,,,19.99,742,40,0,rohan,USA,California,Male,1981-12-07,2024-05-31,0,60.0,1.0,1481.0,low
+0136-SHZTS,2023-01-29,Refferal,2025-01-28,Standard,Annual,,,6.99,306,17,0,vikram,Canada,Ontario,Male,1978-07-08,,0,,,1309.0,low
+0137-QLMFK,2021-08-10,Organic,2024-08-09,Basic,Annual,,,6.99,584,17,0,meera,USA,Texas,Female,1975-08-29,,0,,,1846.0,low
+0138-QDSRY,2020-03-01,Organic,2024-02-29,Basic,Annual,,,13.99,2140,40,0,ananya,India,Tamil Nadu,Female,1975-02-02,2023-05-10,1,80.0,1.0,2373.0,low
+0139-WWRWX,2023-05-26,Organic,2025-05-25,Premium,Annual,,,19.99,989,46,0,daniel,Canada,Ontario,Male,1999-02-28,2025-01-14,1,40.0,1.0,1192.0,low
+0140-QRZLA,2021-09-30,Paid,2025-09-29,Standard,Monthly,,,12.99,825,68,0,neha,Canada,Ontario,Female,1985-05-18,2025-05-28,0,60.0,1.0,1795.0,med
+0141-BPRBT,2024-11-01,Paid,2027-11-01,Premium,Annual,,,12.99,2491,1,0,ananya,India,Gujarat,Female,1986-12-26,,0,,,667.0,low
+0142-XYSMD,2021-12-14,Organic,2025-12-13,Basic,Monthly,,,9.99,2139,20,0,daniel,India,Maharashtra,Male,1987-07-11,2025-10-11,1,10.0,1.0,1720.0,low
+0143-QLSTG,2023-02-05,Organic,2027-02-04,Standard,Annual,2027-02-25,Too expensive,6.99,1914,86,1,neha,India,Gujarat,Female,1971-01-20,2026-07-18,1,40.0,1.0,1481.0,high
+0144-CWWNZ,2023-06-03,Organic,2024-06-02,Basic,Annual,,,13.99,1487,37,0,neha,Canada,Ontario,Female,1973-10-09,2023-09-06,1,20.0,1.0,1184.0,low
+0145-EXIYR,2021-08-10,Refferal,2022-08-10,Standard,Monthly,,,19.99,2176,49,0,vikram,Australia,NSW,Male,1972-06-05,2022-04-27,0,60.0,1.0,1846.0,low
+0146-WUCXK,2020-02-14,Paid,2023-02-13,Standard,Monthly,,,9.99,2451,62,0,nikhil,USA,California,Male,1995-11-03,2022-05-31,1,20.0,1.0,2389.0,med
+0147-QZGPM,2024-11-03,Organic,2028-11-02,Standard,Annual,,,9.99,1200,39,0,manish,India,Tamil Nadu,Male,1979-11-07,2028-08-16,0,100.0,1.0,665.0,low
+0148-JXKPN,2022-05-04,Refferal,2024-05-03,Standard,Monthly,,,6.99,2996,17,0,keshav,USA,Florida,Male,1985-10-24,2023-07-13,0,60.0,1.0,1579.0,low
+0149-MBVHH,2024-05-21,Paid,2025-05-21,Standard,Monthly,,,19.99,1289,83,0,rohan,India,Karnataka,Male,1971-07-23,2025-02-25,1,20.0,1.0,831.0,high
+0150-LBAJZ,2021-08-27,Paid,2022-08-27,Premium,Monthly,2022-09-19,Too expensive,13.99,1189,71,1,keshav,Germany,Bavaria,Male,1980-10-01,,0,,,388.0,high
+0151-KOBWB,2020-06-29,Refferal,2022-06-29,Premium,Annual,,,19.99,855,49,0,pooja,Canada,Quebec,Female,2001-03-11,2022-02-09,1,60.0,1.0,2253.0,low
+0152-WVUTL,2024-02-21,Paid,2025-02-20,Basic,Monthly,,,9.99,170,4,0,daniel,Germany,Berlin,Male,1975-01-18,2024-12-26,1,10.0,1.0,921.0,low
+0153-EWQOK,2024-05-11,Refferal,2028-05-10,Standard,Monthly,,,13.99,747,64,0,rohan,Australia,Victoria,Male,2001-06-21,,0,,,841.0,med
+0154-XWIHD,2022-05-14,Paid,2023-05-14,Basic,Annual,,,19.99,2650,38,0,priya,Australia,Victoria,Female,1993-08-15,,0,,,1569.0,low
+0155-SPWAI,2020-12-26,Paid,2021-12-26,Basic,Annual,,,19.99,1009,57,0,divya,India,Delhi,Female,1985-08-21,,0,,,2073.0,med
+0156-ZZGZO,2020-01-11,Refferal,2023-01-10,Basic,Monthly,2023-01-18,Switched to competitor,19.99,1260,95,1,daniel,USA,Texas,Male,1983-02-04,2022-09-06,1,40.0,1.0,1103.0,high
+0157-QARPV,2021-06-01,Organic,2023-06-01,Basic,Monthly,,,12.99,2985,27,0,pooja,Australia,Victoria,Female,1998-09-05,,0,,,1916.0,low
+0158-WDHLR,2024-05-11,Refferal,2026-05-11,Basic,Monthly,2026-06-04,Switched to competitor,13.99,1346,99,1,pooja,USA,California,Female,1990-10-15,2026-03-09,0,60.0,1.0,754.0,high
+0159-TFRKM,2021-09-02,Refferal,2024-09-01,Standard,Annual,,,6.99,1508,9,0,rahul,Australia,Victoria,Male,1995-05-02,,0,,,1823.0,low
+0160-SBMUJ,2022-06-08,Paid,2026-06-07,Standard,Monthly,,,19.99,1842,4,0,sneha,Australia,Victoria,Female,1972-12-29,2025-08-27,1,40.0,1.0,1544.0,low
+0161-FWMAQ,2023-01-09,Refferal,2027-01-08,Basic,Annual,,,6.99,482,42,0,neha,Canada,Ontario,Female,1977-02-02,2026-11-29,0,100.0,1.0,1329.0,low
+0162-RVEUG,2024-02-14,Refferal,2027-02-13,Standard,Annual,2027-03-20,Too expensive,12.99,1967,99,1,divya,USA,Texas,Female,1989-11-11,,0,,,1130.0,high
+0163-XIXNM,2021-05-24,Refferal,2024-05-23,Standard,Annual,2024-06-08,Too expensive,19.99,1289,72,1,keshav,Australia,Victoria,Male,1994-07-13,2023-08-14,1,60.0,1.0,1111.0,high
+0164-MJEDP,2024-08-21,Paid,2028-08-20,Standard,Monthly,,,9.99,998,64,0,rahul,India,Delhi,Male,1971-08-19,,0,,,739.0,med
+0165-BAPJZ,2024-03-25,Organic,2028-03-24,Standard,Monthly,,,12.99,1473,14,0,meera,USA,Texas,Female,1975-09-16,2027-10-21,0,60.0,1.0,888.0,low
+0166-DAMMJ,2020-01-22,Organic,2021-01-21,Basic,Monthly,,,6.99,610,95,0,rohan,Germany,Bavaria,Male,1982-11-25,2020-07-12,1,20.0,1.0,2412.0,high
+0167-NASAV,2020-04-30,Paid,2022-04-30,Basic,Monthly,,,6.99,2372,77,0,daniel,Germany,Berlin,Male,1989-05-30,2022-01-25,1,20.0,1.0,2313.0,high
+0168-QXROD,2022-01-02,Refferal,2026-01-01,Standard,Annual,,,9.99,2462,40,0,priya,USA,California,Female,1988-07-26,2025-10-10,1,100.0,1.0,1701.0,low
+0169-DOHQE,2023-10-09,Paid,2024-10-08,Basic,Monthly,,,12.99,1682,20,0,rohan,India,Tamil Nadu,Male,1977-04-17,,0,,,1056.0,low
+0170-DDYEZ,2021-11-20,Paid,2022-11-20,Basic,Monthly,,,12.99,1813,16,0,meera,Germany,Berlin,Female,1987-06-30,2022-02-07,0,80.0,1.0,1744.0,low
+0171-HUQOY,2023-01-08,Paid,2025-01-07,Basic,Annual,,,19.99,266,25,0,arjun,Australia,Victoria,Male,1996-03-30,,0,,,1330.0,low
+0172-QCMIS,2023-05-28,Refferal,2024-05-27,Standard,Annual,,,19.99,903,78,0,manish,Canada,Quebec,Male,1992-11-20,2023-12-27,0,10.0,1.0,1190.0,high
+0173-BCIWH,2022-10-16,Paid,2023-10-16,Standard,Annual,,,9.99,2906,10,0,aarav,Germany,Berlin,Male,1974-05-19,,0,,,1414.0,low
+0174-FSMAD,2020-10-12,Paid,2023-10-12,Premium,Annual,,,19.99,1869,8,0,sophia,Canada,Ontario,Female,1977-05-19,,0,,,2148.0,low
+0175-ABOQF,2021-02-13,Organic,2024-02-13,Standard,Annual,,,6.99,802,61,0,keshav,India,Gujarat,Male,1980-03-18,2023-09-20,0,60.0,1.0,2024.0,med
+0176-AXQNU,2024-10-21,Organic,2026-10-21,Standard,Annual,,,6.99,1608,17,0,sneha,Germany,Bavaria,Female,1980-06-07,2026-03-18,1,60.0,1.0,678.0,low
+0177-IFQXC,2020-10-30,Refferal,2021-10-30,Standard,Monthly,,,9.99,491,58,0,ananya,Australia,Victoria,Female,1976-06-02,,0,,,2130.0,med
+0178-TIPPH,2021-12-12,Organic,2024-12-11,Standard,Annual,,,13.99,2185,66,0,kavya,Canada,Ontario,Female,1990-02-14,2024-03-19,1,40.0,1.0,1722.0,med
+0179-ZKQDO,2022-11-17,Organic,2023-11-17,Standard,Monthly,,,19.99,2369,5,0,rohan,India,Karnataka,Male,1981-07-12,,0,,,1382.0,low
+0180-MNQMJ,2022-11-06,Paid,2024-11-05,Premium,Monthly,,,6.99,1187,93,0,meera,Canada,Quebec,Female,1990-10-11,,0,,,1393.0,high
+0181-SRGUD,2024-03-02,Organic,2026-03-02,Standard,Annual,,,12.99,300,60,0,vikram,India,Gujarat,Male,1989-12-10,,0,,,911.0,med
+0182-VACVL,2022-10-16,Paid,2023-10-16,Standard,Monthly,2023-12-14,Too expensive,6.99,2303,82,1,priya,Germany,Berlin,Female,1986-02-18,2023-04-10,0,40.0,1.0,424.0,high
+0183-CEHMQ,2024-03-06,Paid,2026-03-06,Premium,Monthly,,,6.99,691,93,0,kavya,USA,California,Female,1996-10-01,2025-07-15,0,40.0,1.0,907.0,high
+0184-EKVPM,2021-12-12,Organic,2024-12-11,Premium,Annual,,,19.99,360,72,0,rahul,USA,Florida,Male,1997-09-03,,0,,,1722.0,high
+0185-KNOEQ,2022-09-12,Organic,2024-09-11,Basic,Monthly,,,13.99,769,50,0,kavya,Australia,NSW,Female,1998-01-09,,0,,,1448.0,med
+0186-WWKHZ,2022-08-26,Organic,2023-08-26,Standard,Monthly,2023-08-27,Switched to competitor,13.99,1975,93,1,sophia,Germany,Bavaria,Female,1995-01-17,,0,,,366.0,high
+0187-DZVUX,2022-02-03,Paid,2024-02-03,Premium,Annual,2024-02-19,Switched to competitor,9.99,1372,94,1,keshav,Canada,Quebec,Male,1993-06-13,,0,,,746.0,high
+0188-QMINC,2022-12-17,Refferal,2026-12-16,Basic,Monthly,,,12.99,2036,41,0,rahul,Germany,Bavaria,Male,2001-05-03,2026-02-25,1,10.0,1.0,1352.0,low
+0189-CCJYQ,2023-07-30,Refferal,2027-07-29,Premium,Monthly,,,6.99,1963,7,0,aarav,Australia,NSW,Male,1996-12-11,,0,,,1127.0,low
+0190-QZADK,2021-03-09,Paid,2024-03-08,Basic,Annual,,,13.99,1214,86,0,meera,Canada,Ontario,Female,1996-10-20,2024-01-09,1,60.0,1.0,2000.0,high
+0191-KMLBM,2024-06-09,Refferal,2027-06-09,Standard,Annual,,,9.99,1350,2,0,divya,Germany,Berlin,Female,1985-10-25,2027-04-21,1,40.0,1.0,812.0,low
+0192-TSFIR,2021-05-17,Organic,2024-05-16,Basic,Monthly,,,9.99,1992,16,0,neha,Australia,Victoria,Female,1986-12-03,2023-09-02,0,10.0,1.0,1931.0,low
+0193-YKDBF,2023-04-06,Paid,2026-04-05,Premium,Annual,,,12.99,1502,76,0,keshav,Germany,Bavaria,Male,1984-11-07,2025-12-11,0,40.0,1.0,1242.0,high
+0194-IISFC,2023-02-01,Organic,2026-01-31,Standard,Monthly,2026-02-03,Moved away,19.99,454,75,1,meera,Canada,Ontario,Female,1997-08-19,2025-07-18,0,20.0,1.0,1098.0,high
+0195-DOBQP,2024-03-06,Refferal,2026-03-06,Standard,Monthly,,,9.99,2411,57,0,rohan,Germany,Bavaria,Male,1993-03-22,2025-10-15,1,20.0,1.0,907.0,med
+0196-BBZAN,2021-01-14,Refferal,2023-01-14,Basic,Annual,,,9.99,2892,83,0,ananya,Germany,Bavaria,Female,1976-10-13,,0,,,2054.0,high
+0197-WJRTT,2021-10-03,Paid,2024-10-02,Basic,Monthly,,,19.99,1891,55,0,nikhil,Canada,Ontario,Male,1986-06-05,,0,,,1792.0,med
+0198-HYYYU,2023-05-21,Organic,2026-05-20,Premium,Annual,2026-07-18,Switched to competitor,13.99,976,84,1,priya,USA,California,Female,1977-01-08,2026-02-28,0,100.0,1.0,1154.0,high
+0199-SXENK,2020-01-06,Paid,2024-01-05,Basic,Monthly,,,9.99,673,41,0,sophia,Canada,Quebec,Female,1985-09-26,,0,,,2428.0,low
+0200-YZLXR,2020-01-30,Refferal,2024-01-29,Standard,Monthly,,,19.99,1544,13,0,neha,Germany,Berlin,Female,1995-02-26,,0,,,2404.0,low
+0201-EFQTX,2020-12-29,Refferal,2022-12-29,Premium,Monthly,2023-01-17,Too expensive,6.99,1198,82,1,neha,Germany,Bavaria,Female,1994-05-13,2022-04-09,1,60.0,1.0,749.0,high
+0202-GJWXG,2020-03-18,Paid,2023-03-18,Premium,Monthly,,,19.99,567,65,0,vikram,USA,Texas,Male,1987-11-13,2022-12-28,1,10.0,1.0,2356.0,med
+0203-PRGDH,2022-08-11,Paid,2025-08-10,Premium,Monthly,,,9.99,799,34,0,manish,USA,California,Male,1970-09-11,,0,,,1480.0,low
+0204-EJADZ,2024-07-09,Refferal,2027-07-09,Premium,Annual,,,19.99,2839,31,0,daniel,Australia,Victoria,Male,1976-03-21,,0,,,782.0,low
+0205-BXEEA,2020-09-23,Paid,2022-09-23,Basic,Monthly,2022-10-03,Too expensive,12.99,2998,75,1,aarav,Germany,Berlin,Male,1978-02-01,,0,,,740.0,high
+0206-FJPWQ,2022-06-15,Organic,2025-06-14,Premium,Monthly,,,6.99,743,47,0,sophia,Australia,Victoria,Female,1999-04-24,2025-03-27,1,100.0,1.0,1537.0,low
+0207-SCFCK,2023-10-01,Refferal,2025-09-30,Standard,Monthly,,,13.99,200,87,0,manish,USA,California,Male,1990-02-25,2025-03-22,0,10.0,1.0,1064.0,high
+0208-ACSBR,2021-10-23,Organic,2023-10-23,Basic,Annual,,,12.99,2202,25,0,rahul,Australia,NSW,Male,1990-03-29,,0,,,1772.0,low
+0209-TZCCI,2020-11-06,Organic,2023-11-06,Standard,Monthly,,,12.99,2725,64,0,ananya,India,Gujarat,Female,1976-12-24,,0,,,2123.0,med
+0210-RDSNZ,2023-05-18,Paid,2024-05-17,Basic,Annual,2024-06-03,Switched to competitor,19.99,277,86,1,meera,Germany,Berlin,Female,1975-11-23,2024-01-02,1,100.0,1.0,382.0,high
+0211-ZEFEW,2024-01-11,Refferal,2025-01-10,Standard,Annual,,,19.99,2238,24,0,rohan,Canada,Quebec,Male,1971-10-03,2024-07-31,1,20.0,1.0,962.0,low
+0212-GTRWF,2023-11-29,Organic,2024-11-28,Standard,Monthly,,,13.99,2351,19,0,daniel,Canada,Ontario,Male,1978-06-15,2024-04-09,1,20.0,1.0,1005.0,low
+0213-QJQWS,2022-11-07,Organic,2024-11-06,Basic,Monthly,,,9.99,762,47,0,priya,Canada,Quebec,Female,1980-05-07,,0,,,1392.0,low
+0214-RSPKZ,2022-06-10,Organic,2025-06-09,Basic,Monthly,,,9.99,1504,42,0,james,USA,Florida,Male,1973-05-12,2024-12-02,0,80.0,1.0,1542.0,low
+0215-YIVMO,2021-08-23,Organic,2023-08-23,Premium,Annual,,,9.99,941,53,0,sophia,India,Tamil Nadu,Female,1995-10-25,,0,,,1833.0,med
+0216-DWLUY,2024-07-26,Refferal,2028-07-25,Premium,Annual,,,12.99,590,10,0,neha,India,Maharashtra,Female,1975-02-14,,0,,,765.0,low
+0217-JQGAO,2020-08-19,Organic,2023-08-19,Premium,Annual,,,9.99,1710,9,0,divya,USA,Florida,Female,1978-02-10,,0,,,2202.0,low
+0218-KXWHZ,2023-06-23,Refferal,2024-06-22,Basic,Monthly,,,13.99,1084,4,0,sophia,Germany,Berlin,Female,1997-10-07,2024-05-13,1,100.0,1.0,1164.0,low
+0219-ZDBUR,2020-05-23,Refferal,2023-05-23,Standard,Monthly,,,13.99,437,77,0,pooja,Australia,NSW,Female,1989-10-28,2022-10-10,1,20.0,1.0,2290.0,high
+0220-YZYFU,2022-01-07,Refferal,2023-01-07,Basic,Monthly,,,6.99,2626,8,0,vikram,Australia,Victoria,Male,1975-01-26,,0,,,1696.0,low
+0221-DQKGM,2021-06-04,Refferal,2025-06-03,Standard,Annual,,,19.99,2981,9,0,priya,Canada,Quebec,Female,1986-03-14,2024-09-19,0,80.0,1.0,1913.0,low
+0222-SLHQY,2023-12-27,Refferal,2026-12-26,Basic,Annual,,,19.99,847,97,0,aarav,Germany,Bavaria,Male,1972-08-31,2026-03-22,0,60.0,1.0,977.0,high
+0223-SDCLA,2024-07-12,Organic,2026-07-12,Basic,Annual,,,6.99,1466,29,0,ananya,Australia,NSW,Female,1999-11-26,,0,,,779.0,low
+0224-YOGGM,2022-08-19,Paid,2023-08-19,Basic,Annual,,,6.99,2957,16,0,kavya,USA,California,Female,1975-01-15,,0,,,1472.0,low
+0225-XDPKX,2024-02-26,Paid,2028-02-25,Premium,Monthly,2028-03-20,Too expensive,9.99,1200,100,1,pooja,Germany,Berlin,Female,1971-09-13,,0,,,1484.0,high
+0226-FBYBJ,2021-02-09,Organic,2025-02-08,Standard,Monthly,,,19.99,1344,36,0,aarav,Germany,Berlin,Male,1973-11-07,2024-10-28,1,10.0,1.0,2028.0,low
+0227-VKQEB,2023-08-12,Refferal,2026-08-11,Basic,Monthly,,,19.99,1187,20,0,sneha,Australia,NSW,Female,1998-07-16,,0,,,1114.0,low
+0228-LBKTN,2023-01-02,Paid,2025-01-01,Standard,Monthly,2025-02-24,Moved away,19.99,978,77,1,divya,Canada,Ontario,Female,1996-12-24,2024-07-02,1,60.0,1.0,784.0,high
+0229-ELCFB,2023-08-27,Paid,2026-08-26,Standard,Monthly,,,9.99,337,73,0,ananya,India,Tamil Nadu,Female,1970-08-09,2025-12-14,1,60.0,1.0,1099.0,high
+0230-QVMHD,2023-03-26,Organic,2026-03-25,Basic,Annual,,,19.99,1772,48,0,daniel,USA,California,Male,1974-02-13,2025-05-30,1,100.0,1.0,1253.0,low
+0231-VIVJU,2020-12-09,Paid,2023-12-09,Standard,Monthly,,,13.99,2492,14,0,emily,USA,Florida,Female,1999-06-15,2023-09-11,1,80.0,1.0,2090.0,low
+0232-OCFHQ,2020-01-08,Organic,2023-01-07,Premium,Monthly,2023-02-20,Switched to competitor,19.99,1202,93,1,vikram,Canada,Ontario,Male,1992-05-13,,0,,,1139.0,high
+0233-EVRIK,2020-06-27,Paid,2021-06-27,Standard,Annual,,,9.99,2216,82,0,ananya,Australia,NSW,Female,1989-10-17,2020-11-24,0,10.0,1.0,2255.0,high
+0234-BDGST,2020-05-04,Refferal,2023-05-04,Basic,Monthly,,,12.99,812,24,0,pooja,Germany,Bavaria,Female,1989-12-15,2022-10-13,1,40.0,1.0,2309.0,low
+0235-ARSJM,2020-09-10,Refferal,2024-09-09,Premium,Annual,,,19.99,498,55,0,arjun,USA,Florida,Male,1992-08-02,,0,,,2180.0,med
+0236-QXMCY,2021-09-29,Paid,2022-09-29,Standard,Annual,,,6.99,897,3,0,ananya,Germany,Berlin,Female,1970-03-18,,0,,,1796.0,low
+0237-NFTDZ,2020-06-17,Refferal,2024-06-16,Premium,Monthly,,,9.99,539,2,0,rohan,Canada,Quebec,Male,1975-03-20,2024-04-23,0,80.0,1.0,2265.0,low
+0238-VFQHU,2022-03-09,Refferal,2024-03-08,Premium,Monthly,,,6.99,1680,32,0,meera,India,Delhi,Female,1987-08-10,2023-09-21,1,80.0,1.0,1635.0,low
+0239-XCMDJ,2024-11-20,Refferal,2027-11-20,Standard,Annual,,,12.99,2361,10,0,emily,Canada,Ontario,Female,1972-07-02,2027-10-07,0,80.0,1.0,648.0,low
+0240-GVMYV,2021-10-24,Paid,2025-10-23,Premium,Annual,,,13.99,2609,37,0,aarav,Canada,Ontario,Male,1978-11-01,,0,,,1771.0,low
+0241-SYPAV,2020-11-07,Paid,2022-11-07,Standard,Monthly,2022-11-09,Moved away,19.99,1428,97,1,nikhil,Canada,Quebec,Male,1999-07-13,2022-01-31,1,80.0,1.0,732.0,high
+0242-WWVQJ,2020-03-24,Paid,2023-03-24,Standard,Monthly,,,13.99,476,45,0,james,USA,Florida,Male,1973-09-02,2022-09-07,1,10.0,1.0,2350.0,low
+0243-PYQID,2024-01-12,Refferal,2028-01-11,Standard,Monthly,,,19.99,1294,69,0,meera,India,Gujarat,Female,1991-03-29,2027-09-10,1,80.0,1.0,961.0,med
+0244-ISDYY,2023-10-01,Paid,2027-09-30,Premium,Annual,,,6.99,2916,4,0,sneha,Canada,Quebec,Female,1978-11-06,2027-08-29,1,40.0,1.0,1064.0,low
+0245-LDOJE,2023-01-15,Paid,2024-01-15,Premium,Monthly,,,6.99,2733,99,0,kavya,USA,Florida,Female,1971-04-22,2023-10-16,1,60.0,1.0,1323.0,high
+0246-OHUYW,2023-07-12,Organic,2026-07-11,Standard,Annual,,,9.99,1413,22,0,divya,Germany,Bavaria,Female,1984-01-21,2026-04-01,1,100.0,1.0,1145.0,low
+0247-MJZOY,2020-10-14,Organic,2021-10-14,Standard,Monthly,,,9.99,552,52,0,arjun,Canada,Quebec,Male,1976-10-01,2021-03-20,1,20.0,1.0,2146.0,med
+0248-LJDGM,2022-08-13,Organic,2024-08-12,Premium,Annual,,,12.99,662,23,0,ananya,Canada,Ontario,Female,1980-02-13,2024-05-25,0,40.0,1.0,1478.0,low
+0249-HGVOE,2021-01-17,Organic,2025-01-16,Basic,Annual,,,13.99,846,59,0,vikram,Australia,Victoria,Male,1978-08-29,2024-05-03,1,20.0,1.0,2051.0,med
+0250-PKVHW,2023-09-24,Refferal,2027-09-23,Standard,Monthly,,,13.99,1274,59,0,meera,India,Delhi,Female,1976-09-19,2027-01-22,1,60.0,1.0,1071.0,med
+0251-DRGBN,2022-05-12,Organic,2026-05-11,Basic,Annual,,,19.99,1680,65,0,divya,India,Delhi,Female,1984-05-14,2025-11-17,1,40.0,1.0,1571.0,med
+0252-PHXUB,2020-10-16,Paid,2024-10-15,Premium,Annual,,,13.99,781,77,0,arjun,India,Karnataka,Male,2001-04-02,,0,,,2144.0,high
+0253-AWAYK,2021-08-06,Paid,2023-08-06,Premium,Monthly,,,13.99,512,53,0,meera,India,Delhi,Female,1976-12-24,,0,,,1850.0,med
+0254-QARJF,2024-09-27,Organic,2028-09-26,Standard,Monthly,,,12.99,1006,54,0,ananya,USA,Texas,Female,1991-09-24,2028-03-13,0,40.0,1.0,702.0,med
+0255-ICNXL,2023-08-17,Paid,2025-08-16,Standard,Annual,2025-09-25,Too expensive,9.99,850,83,1,keshav,USA,California,Male,1998-07-13,2024-11-30,0,20.0,1.0,770.0,high
+0256-CZBOG,2021-09-19,Refferal,2023-09-19,Basic,Monthly,2023-10-03,Switched to competitor,12.99,2081,78,1,divya,Canada,Ontario,Female,1994-07-15,,0,,,744.0,high
+0257-VDFCJ,2022-10-22,Organic,2025-10-21,Basic,Monthly,,,12.99,2150,12,0,neha,India,Karnataka,Female,1995-02-17,2025-08-23,1,40.0,1.0,1408.0,low
+0258-EKLEO,2021-11-02,Refferal,2022-11-02,Basic,Annual,,,6.99,303,75,0,kavya,India,Tamil Nadu,Female,1999-12-31,,0,,,1762.0,high
+0259-VZMOC,2022-02-09,Refferal,2023-02-09,Basic,Annual,,,13.99,2143,68,0,arjun,India,Gujarat,Male,1997-08-08,2022-06-18,0,60.0,1.0,1663.0,med
+0260-PCYUB,2020-07-16,Refferal,2024-07-15,Standard,Annual,2024-09-12,Too expensive,13.99,849,71,1,aarav,India,Maharashtra,Male,1985-08-17,,0,,,1519.0,high
+0261-XAFWM,2021-08-06,Organic,2023-08-06,Premium,Monthly,2023-10-02,Moved away,6.99,1554,95,1,vikram,Canada,Ontario,Male,1978-11-17,,0,,,787.0,high
+0262-HNSCW,2022-04-04,Paid,2025-04-03,Standard,Monthly,2025-05-03,Switched to competitor,19.99,1510,81,1,meera,India,Karnataka,Female,1988-07-28,,0,,,1125.0,high
+0263-CPCTM,2020-07-27,Refferal,2023-07-27,Basic,Monthly,,,19.99,2864,56,0,meera,Canada,Ontario,Female,1981-09-06,2023-06-26,1,80.0,1.0,2225.0,med
+0264-OAIYP,2022-09-13,Paid,2026-09-12,Premium,Annual,,,6.99,1569,60,0,divya,Australia,Victoria,Female,1992-02-23,,0,,,1447.0,med
+0265-KEIRM,2022-10-18,Refferal,2025-10-17,Basic,Monthly,,,13.99,456,36,0,rahul,Canada,Quebec,Male,1987-01-27,2025-09-01,1,100.0,1.0,1412.0,low
+0266-APFXP,2023-10-22,Refferal,2025-10-21,Premium,Monthly,,,19.99,240,69,0,ananya,Germany,Bavaria,Female,1971-12-01,,0,,,1043.0,med
+0267-IUZBB,2023-12-31,Refferal,2026-12-30,Premium,Monthly,,,19.99,1573,56,0,manish,Australia,NSW,Male,1980-06-19,2026-04-05,1,80.0,1.0,973.0,med
+0268-YHKJJ,2020-10-14,Refferal,2023-10-14,Premium,Monthly,2023-10-29,Switched to competitor,13.99,565,80,1,nikhil,USA,Texas,Male,1989-11-09,2023-09-09,1,10.0,1.0,1110.0,high
+0269-GSDFD,2020-04-03,Organic,2023-04-03,Basic,Annual,,,13.99,1248,50,0,priya,Germany,Berlin,Female,1971-07-23,,0,,,2340.0,med
+0270-KGHUR,2022-03-14,Refferal,2024-03-13,Premium,Annual,,,9.99,636,65,0,emily,Australia,NSW,Female,1989-01-20,2023-08-31,0,60.0,1.0,1630.0,med
+0271-PBDWI,2024-12-04,Refferal,2025-12-04,Premium,Annual,,,12.99,2353,43,0,keshav,Australia,NSW,Male,1981-02-13,2025-07-31,1,80.0,1.0,634.0,low
+0272-HBRIU,2023-03-07,Paid,2025-03-06,Standard,Monthly,2025-04-11,Too expensive,6.99,1469,91,1,kavya,USA,Texas,Female,1983-03-23,,0,,,766.0,high
+0273-GMQAE,2022-08-15,Organic,2026-08-14,Premium,Monthly,,,9.99,1668,47,0,sophia,Canada,Quebec,Female,1972-07-14,2026-06-02,1,60.0,1.0,1476.0,low
+0274-VCADO,2024-11-03,Paid,2027-11-03,Premium,Annual,,,12.99,642,26,0,neha,Canada,Ontario,Female,1981-04-10,2027-07-08,1,20.0,1.0,665.0,low
+0275-KZEON,2020-03-22,Paid,2021-03-22,Standard,Monthly,,,12.99,2359,62,0,vikram,India,Maharashtra,Male,1996-05-27,2020-08-01,1,60.0,1.0,2352.0,med
+0276-DKQFA,2020-09-29,Refferal,2021-09-29,Basic,Annual,2021-10-14,Too expensive,19.99,793,84,1,divya,Canada,Quebec,Female,1986-10-10,2020-12-23,0,20.0,1.0,380.0,high
+0277-XFAXP,2020-09-10,Paid,2021-09-10,Standard,Monthly,2021-10-03,Too expensive,13.99,1690,98,1,priya,India,Maharashtra,Female,1993-06-09,2021-07-31,0,20.0,1.0,388.0,high
+0278-NNOAQ,2020-03-20,Refferal,2021-03-20,Standard,Monthly,,,13.99,1546,57,0,sneha,Germany,Berlin,Female,1971-11-01,2020-06-06,0,100.0,1.0,2354.0,med
+0279-FAICK,2021-10-21,Organic,2022-10-21,Standard,Monthly,,,6.99,984,96,0,meera,Australia,Victoria,Female,1987-05-17,,0,,,1774.0,high
+0280-BFYWT,2020-03-08,Paid,2021-03-08,Standard,Monthly,,,6.99,2669,21,0,meera,USA,California,Female,1971-03-03,,0,,,2366.0,low
+0281-DCMYY,2023-04-18,Refferal,2024-04-17,Basic,Annual,,,13.99,2351,50,0,arjun,Canada,Ontario,Male,1971-10-27,2023-11-03,1,100.0,1.0,1230.0,med
+0282-VAYID,2024-05-23,Paid,2026-05-23,Premium,Annual,,,19.99,1878,38,0,aarav,Germany,Berlin,Male,1984-02-11,2025-10-04,0,60.0,1.0,829.0,low
+0283-VFZMA,2020-05-18,Paid,2022-05-18,Basic,Annual,,,6.99,1141,99,0,ananya,Germany,Berlin,Female,1972-08-27,2022-03-03,1,10.0,1.0,2295.0,high
+0284-ZZHCE,2023-08-18,Refferal,2024-08-17,Basic,Monthly,,,19.99,1700,11,0,vikram,USA,California,Male,1995-03-09,2024-03-31,1,60.0,1.0,1108.0,low
+0285-FDWGZ,2022-08-05,Organic,2024-08-04,Standard,Monthly,2024-08-26,Switched to competitor,6.99,2692,86,1,manish,Australia,NSW,Male,1983-09-25,2024-03-18,0,80.0,1.0,752.0,high
+0286-ZGWPN,2024-06-08,Organic,2027-06-08,Premium,Annual,,,19.99,2426,38,0,rohan,Germany,Bavaria,Male,1973-10-19,2026-12-16,1,20.0,1.0,813.0,low
+0287-PTOFF,2020-01-21,Organic,2024-01-20,Premium,Annual,,,9.99,2674,40,0,ananya,India,Karnataka,Female,1998-02-26,2023-04-26,1,80.0,1.0,2413.0,low
+0288-PVPSP,2022-09-22,Organic,2024-09-21,Standard,Annual,,,12.99,775,33,0,sneha,Canada,Ontario,Female,1974-10-12,2024-02-14,1,80.0,1.0,1438.0,low
+0289-FEWPG,2021-05-07,Paid,2023-05-07,Premium,Monthly,,,12.99,1182,95,0,meera,India,Delhi,Female,2001-03-12,2022-09-15,1,10.0,1.0,1941.0,high
+0290-JGSZA,2020-01-22,Refferal,2021-01-21,Standard,Annual,,,9.99,1304,72,0,emily,Germany,Bavaria,Female,1990-07-05,2020-12-04,0,80.0,1.0,2412.0,high
+0291-KLDGR,2020-01-04,Paid,2024-01-03,Premium,Annual,2024-01-27,Moved away,19.99,1226,82,1,pooja,USA,Florida,Female,1994-05-10,,0,,,1484.0,high
+0292-UBBZP,2022-02-12,Paid,2024-02-12,Standard,Monthly,,,9.99,1695,69,0,emily,India,Karnataka,Female,1987-06-24,,0,,,1660.0,med
+0293-UQNLX,2023-01-22,Paid,2027-01-21,Standard,Annual,,,13.99,258,54,0,daniel,Australia,NSW,Male,1992-11-01,2026-10-18,0,10.0,1.0,1316.0,med
+0294-UIZLE,2022-12-12,Paid,2024-12-11,Basic,Annual,2025-01-15,Moved away,6.99,512,77,1,pooja,Germany,Bavaria,Female,1982-11-04,2024-09-07,0,10.0,1.0,765.0,high
+0295-RXISB,2024-10-01,Paid,2027-10-01,Standard,Annual,,,19.99,2693,5,0,james,India,Maharashtra,Male,1970-02-17,2027-06-22,1,40.0,1.0,698.0,low
+0296-QVQUL,2020-10-03,Refferal,2021-10-03,Standard,Annual,,,9.99,1558,49,0,manish,Australia,Victoria,Male,1979-04-07,2021-04-26,1,40.0,1.0,2157.0,low
+0297-OWSVK,2023-05-20,Organic,2027-05-19,Basic,Annual,2027-06-18,Too expensive,19.99,638,95,1,sneha,Australia,Victoria,Female,1972-07-04,,0,,,1490.0,high
+0298-GCUAC,2021-09-05,Refferal,2025-09-04,Premium,Annual,,,12.99,1524,36,0,vikram,Germany,Bavaria,Male,1971-09-15,,0,,,1820.0,low
+0299-YAOBK,2023-02-18,Organic,2026-02-17,Basic,Annual,2026-02-18,Too expensive,19.99,2593,78,1,meera,Canada,Quebec,Female,1988-12-21,2025-10-25,1,80.0,1.0,1096.0,high
+0300-XSMEW,2023-05-13,Refferal,2027-05-12,Standard,Annual,,,6.99,993,69,0,nikhil,India,Karnataka,Male,1999-11-16,2026-11-27,0,100.0,1.0,1205.0,med
+0301-YEFZC,2023-12-23,Refferal,2025-12-22,Standard,Annual,,,19.99,1810,5,0,sophia,India,Tamil Nadu,Female,1995-09-16,2025-08-22,0,10.0,1.0,981.0,low
+0302-TYEMD,2021-12-30,Paid,2025-12-29,Basic,Annual,,,13.99,1576,92,0,kavya,India,Gujarat,Female,1997-08-04,,0,,,1704.0,high
+0303-UZHGM,2022-04-04,Refferal,2023-04-04,Premium,Annual,,,12.99,990,53,0,nikhil,India,Karnataka,Male,1987-10-03,,0,,,1609.0,med
+0304-YJVAN,2020-03-03,Refferal,2023-03-03,Standard,Monthly,,,13.99,1310,1,0,neha,Australia,NSW,Female,1982-07-18,2022-07-11,0,40.0,1.0,2371.0,low
+0305-HREFK,2021-03-22,Refferal,2024-03-21,Basic,Monthly,,,9.99,200,28,0,nikhil,Germany,Berlin,Male,1970-10-19,2023-12-24,0,80.0,1.0,1987.0,low
+0306-CVSHX,2024-08-18,Refferal,2027-08-18,Basic,Monthly,,,19.99,705,52,0,arjun,Australia,NSW,Male,1995-08-31,2027-05-19,1,10.0,1.0,742.0,med
+0307-UMLHI,2024-03-20,Organic,2026-03-20,Premium,Annual,2026-04-23,Too expensive,19.99,2613,97,1,sneha,USA,California,Female,1996-07-30,2025-07-05,1,40.0,1.0,764.0,high
+0308-QBSQA,2021-11-06,Refferal,2025-11-05,Premium,Monthly,2025-12-12,Too expensive,9.99,899,74,1,rahul,Australia,NSW,Male,1996-04-01,,0,,,1497.0,high
+0309-GYKLG,2023-11-03,Paid,2027-11-02,Basic,Annual,,,6.99,1438,45,0,kavya,Australia,NSW,Female,1996-09-05,2027-01-07,1,100.0,1.0,1031.0,low
+0310-UVPRN,2020-03-15,Organic,2024-03-14,Premium,Monthly,,,13.99,2319,64,0,priya,Germany,Bavaria,Female,1975-05-21,2023-11-29,0,60.0,1.0,2359.0,med
+0311-XARUU,2022-04-04,Organic,2023-04-04,Premium,Annual,2023-05-31,Switched to competitor,12.99,2273,74,1,rohan,USA,California,Male,1981-11-16,2022-12-17,0,40.0,1.0,422.0,high
+0312-QUGGG,2023-11-23,Paid,2027-11-22,Basic,Monthly,,,12.99,936,89,0,arjun,Germany,Berlin,Male,2002-10-10,2027-06-11,1,40.0,1.0,1011.0,high
+0313-MHBCD,2024-11-15,Paid,2028-11-14,Standard,Annual,,,12.99,1587,45,0,emily,Germany,Berlin,Female,1983-05-04,,0,,,653.0,low
+0314-XLCJB,2022-11-25,Organic,2026-11-24,Basic,Monthly,,,6.99,2764,61,0,priya,India,Karnataka,Female,1979-01-05,,0,,,1374.0,med
+0315-UVBMW,2024-02-14,Organic,2026-02-13,Standard,Annual,,,9.99,2221,81,0,kavya,India,Karnataka,Female,1984-11-08,2025-08-30,0,10.0,1.0,928.0,high
+0316-BLDID,2020-05-21,Organic,2022-05-21,Basic,Annual,,,12.99,874,65,0,emily,Canada,Ontario,Female,1973-07-06,2022-04-01,1,40.0,1.0,2292.0,med
+0317-OZIDH,2021-10-28,Paid,2023-10-28,Premium,Monthly,,,13.99,992,87,0,pooja,Germany,Bavaria,Female,1999-07-28,,0,,,1767.0,high
+0318-WWPRJ,2022-04-12,Refferal,2025-04-11,Premium,Annual,,,19.99,2969,85,0,ananya,India,Gujarat,Female,1989-06-25,2024-10-31,1,80.0,1.0,1601.0,high
+0319-OQALC,2024-08-12,Paid,2025-08-12,Standard,Annual,,,9.99,1516,44,0,meera,Australia,NSW,Female,1988-02-05,2024-11-16,1,10.0,1.0,748.0,low
+0320-UHAWZ,2024-06-15,Refferal,2027-06-15,Standard,Annual,,,13.99,795,42,0,divya,USA,Florida,Female,1988-08-02,2026-09-02,1,20.0,1.0,806.0,low
+0321-BLXLS,2021-10-31,Refferal,2025-10-30,Standard,Monthly,2025-11-15,Switched to competitor,9.99,1291,77,1,kavya,USA,Texas,Female,1995-01-28,2025-05-20,0,100.0,1.0,1476.0,high
+0322-FHGRA,2023-04-01,Refferal,2027-03-31,Basic,Monthly,2027-05-18,Switched to competitor,6.99,433,86,1,arjun,Germany,Bavaria,Male,1972-01-27,,0,,,1508.0,high
+0323-IVUJT,2020-03-01,Paid,2023-03-01,Standard,Monthly,,,6.99,1064,37,0,daniel,Canada,Quebec,Male,1988-02-20,2022-09-05,1,80.0,1.0,2373.0,low
+0324-OXUVI,2023-04-10,Paid,2027-04-09,Basic,Monthly,,,12.99,1608,19,0,rohan,Germany,Berlin,Male,1994-03-04,,0,,,1238.0,low
+0325-TONMH,2023-09-18,Organic,2026-09-17,Standard,Monthly,,,12.99,2551,67,0,pooja,USA,Texas,Female,2000-12-16,,0,,,1077.0,med
+0326-CIXAU,2024-07-27,Organic,2027-07-27,Basic,Annual,,,19.99,198,79,0,sneha,Canada,Ontario,Female,1998-12-21,,0,,,764.0,high
+0327-GSONF,2023-10-09,Refferal,2026-10-08,Standard,Annual,,,6.99,385,6,0,pooja,Australia,Victoria,Female,1988-04-20,2026-01-25,0,10.0,1.0,1056.0,low
+0328-DFTRJ,2023-09-07,Paid,2027-09-06,Basic,Monthly,2027-11-03,Switched to competitor,6.99,2506,96,1,james,USA,California,Male,1979-09-08,2027-07-15,1,80.0,1.0,1518.0,high
+0329-CSNCZ,2020-03-08,Paid,2022-03-08,Standard,Monthly,,,19.99,2927,22,0,keshav,Canada,Ontario,Male,1982-03-04,,0,,,2366.0,low
+0330-GPLYD,2020-05-05,Paid,2021-05-05,Basic,Monthly,,,13.99,2411,55,0,priya,USA,Texas,Female,1990-09-28,2021-01-17,0,100.0,1.0,2308.0,med
+0331-WAHYI,2020-09-20,Refferal,2021-09-20,Premium,Annual,,,13.99,1487,33,0,emily,India,Karnataka,Female,1972-01-11,,0,,,2170.0,low
+0332-UXCYK,2024-05-28,Organic,2026-05-28,Premium,Monthly,,,6.99,1381,53,0,james,Canada,Ontario,Male,1972-07-29,2026-02-27,1,100.0,1.0,824.0,med
+0333-OHUOI,2020-03-20,Refferal,2021-03-20,Premium,Monthly,,,9.99,1516,77,0,nikhil,India,Delhi,Male,1993-09-15,2020-07-16,0,60.0,1.0,2354.0,high
+0334-ATXES,2022-11-29,Organic,2024-11-28,Basic,Annual,,,12.99,2929,40,0,sophia,USA,Texas,Female,1994-09-12,,0,,,1370.0,low
+0335-QKACU,2022-05-07,Organic,2025-05-06,Premium,Annual,,,6.99,2014,39,0,james,India,Gujarat,Male,1985-12-10,2024-09-29,1,20.0,1.0,1576.0,low
+0336-DZIQA,2021-01-09,Paid,2022-01-09,Basic,Annual,,,6.99,1415,8,0,neha,USA,California,Female,1982-10-16,,0,,,2059.0,low
+0337-GXNAD,2022-02-23,Organic,2023-02-23,Premium,Monthly,,,9.99,206,8,0,arjun,Germany,Bavaria,Male,2000-04-20,2022-06-14,0,40.0,1.0,1649.0,low
+0338-CDZAC,2024-01-21,Organic,2026-01-20,Basic,Annual,,,19.99,1406,64,0,neha,India,Tamil Nadu,Female,1995-12-12,,0,,,952.0,med
+0339-WAPAT,2021-10-12,Organic,2023-10-12,Standard,Monthly,,,6.99,1784,65,0,nikhil,Germany,Bavaria,Male,1989-02-23,2022-12-27,0,100.0,1.0,1783.0,med
+0340-YPVVI,2021-09-11,Refferal,2023-09-11,Basic,Annual,,,12.99,341,36,0,meera,Germany,Bavaria,Female,1971-09-25,2023-08-07,1,80.0,1.0,1814.0,low
+0341-WZGYT,2020-07-27,Refferal,2022-07-27,Basic,Monthly,,,13.99,2296,70,0,priya,Canada,Ontario,Female,1992-05-23,2022-03-24,0,40.0,1.0,2225.0,high
+0342-DBVMA,2023-03-09,Organic,2027-03-08,Premium,Annual,,,13.99,1885,25,0,sneha,Germany,Bavaria,Female,1982-11-15,2027-01-02,0,40.0,1.0,1270.0,low
+0343-HIHIR,2020-09-29,Organic,2024-09-28,Basic,Annual,,,12.99,1826,29,0,priya,Australia,Victoria,Female,1981-07-22,2024-06-13,1,10.0,1.0,2161.0,low
+0344-KRZWE,2022-02-27,Paid,2023-02-27,Premium,Monthly,,,19.99,580,29,0,rohan,Germany,Berlin,Male,2000-11-04,2022-08-03,1,80.0,1.0,1645.0,low
+0345-TVKPW,2020-11-25,Paid,2023-11-25,Premium,Annual,,,13.99,1062,67,0,keshav,Germany,Berlin,Male,1999-06-07,,0,,,2104.0,med
+0346-JRXSS,2024-10-10,Refferal,2027-10-10,Basic,Annual,,,12.99,470,18,0,arjun,India,Delhi,Male,1990-11-10,,0,,,689.0,low
+0347-FBANP,2023-02-25,Paid,2027-02-24,Standard,Annual,,,9.99,1462,32,0,sophia,USA,Florida,Female,1974-10-07,2026-05-15,0,60.0,1.0,1282.0,low
+0348-OETTY,2022-07-30,Refferal,2026-07-29,Standard,Annual,2026-08-22,Moved away,13.99,1268,75,1,aarav,India,Maharashtra,Male,1991-11-09,2026-01-11,0,100.0,1.0,1484.0,high
+0349-LYQWY,2024-07-07,Refferal,2027-07-07,Standard,Annual,,,9.99,2279,26,0,nikhil,Australia,NSW,Male,1974-01-15,,0,,,784.0,low
+0350-MCAEO,2022-06-30,Refferal,2025-06-29,Standard,Monthly,,,9.99,1509,47,0,pooja,Australia,Victoria,Female,1983-06-16,2025-05-02,0,10.0,1.0,1522.0,low
+0351-MWKHJ,2021-09-24,Refferal,2024-09-23,Premium,Annual,,,6.99,1023,3,0,rahul,Australia,Victoria,Male,1978-08-05,2024-04-04,1,20.0,1.0,1801.0,low
+0352-RSIQM,2021-04-28,Refferal,2023-04-28,Standard,Monthly,,,19.99,1149,93,0,keshav,USA,California,Male,1994-09-19,,0,,,1950.0,high
+0353-QNOON,2021-09-28,Paid,2025-09-27,Premium,Monthly,,,12.99,1889,15,0,ananya,India,Gujarat,Female,1984-11-07,,0,,,1797.0,low
+0354-UOJHT,2021-06-12,Paid,2024-06-11,Premium,Annual,,,6.99,2349,6,0,sophia,Australia,NSW,Female,1984-12-05,2024-02-06,0,60.0,1.0,1905.0,low
+0355-ILGEU,2024-03-27,Refferal,2026-03-27,Basic,Annual,,,6.99,1918,37,0,neha,USA,Florida,Female,1989-03-16,,0,,,886.0,low
+0356-WWOGW,2024-03-01,Refferal,2025-03-01,Premium,Annual,2025-03-23,Switched to competitor,19.99,1628,98,1,sneha,Canada,Quebec,Female,1988-09-04,,0,,,387.0,high
+0357-NDHPV,2021-12-13,Organic,2025-12-12,Basic,Annual,,,9.99,990,61,0,kavya,Australia,Victoria,Female,1994-10-11,2025-09-23,1,60.0,1.0,1721.0,med
+0358-PAGQY,2020-11-18,Paid,2023-11-18,Premium,Monthly,,,12.99,2137,61,0,rahul,USA,Florida,Male,1983-09-28,,0,,,2111.0,med
+0359-OSXPF,2021-09-27,Organic,2025-09-26,Basic,Annual,,,19.99,653,28,0,ananya,Canada,Ontario,Female,1980-11-06,2025-02-27,0,20.0,1.0,1798.0,low
+0360-SBAHN,2021-02-09,Organic,2025-02-08,Premium,Annual,2025-02-19,Moved away,13.99,2029,85,1,arjun,Canada,Quebec,Male,2000-11-26,2024-06-15,1,10.0,1.0,1471.0,high
+0361-PKQWM,2021-08-19,Paid,2025-08-18,Standard,Monthly,,,13.99,409,60,0,priya,USA,Texas,Female,1989-04-07,2024-11-25,0,20.0,1.0,1837.0,med
+0362-GMKOD,2021-04-15,Paid,2023-04-15,Premium,Annual,2023-06-01,Too expensive,9.99,350,75,1,kavya,Germany,Berlin,Female,1998-11-06,2022-09-27,1,20.0,1.0,777.0,high
+0363-QDLKB,2024-02-06,Refferal,2025-02-05,Premium,Monthly,,,9.99,2849,98,0,manish,USA,Texas,Male,1993-12-09,2024-06-21,0,100.0,1.0,936.0,high
+0364-WHGIZ,2022-08-08,Organic,2026-08-07,Standard,Annual,2026-08-21,Too expensive,13.99,2032,90,1,manish,Australia,NSW,Male,1982-04-22,2025-12-11,1,10.0,1.0,1474.0,high
+0365-GJWTS,2024-05-27,Paid,2025-05-27,Standard,Monthly,2025-07-25,Moved away,9.99,358,74,1,meera,India,Gujarat,Female,1996-01-27,,0,,,424.0,high
+0366-MYJRP,2022-07-24,Paid,2025-07-23,Basic,Annual,,,13.99,258,6,0,keshav,Canada,Ontario,Male,1977-12-22,,0,,,1498.0,low
+0367-WKQVD,2020-01-30,Refferal,2024-01-29,Premium,Annual,,,9.99,2799,49,0,emily,Germany,Berlin,Female,1991-03-11,2023-10-08,0,60.0,1.0,2404.0,low
+0368-TGVFY,2023-06-28,Refferal,2025-06-27,Premium,Annual,,,13.99,1903,28,0,neha,Germany,Bavaria,Female,1991-12-23,,0,,,1159.0,low
+0369-UKBAY,2024-08-13,Organic,2028-08-12,Standard,Monthly,,,19.99,1009,67,0,neha,USA,California,Female,1998-05-25,2028-07-09,1,80.0,1.0,747.0,med
+0370-PCWRI,2024-10-25,Organic,2028-10-24,Standard,Monthly,,,19.99,1754,44,0,aarav,Germany,Berlin,Male,1978-05-09,,0,,,674.0,low
+0371-YUESR,2024-05-13,Paid,2028-05-12,Standard,Annual,,,9.99,1292,62,0,nikhil,India,Delhi,Male,1972-08-01,,0,,,839.0,med
+0372-STNLT,2021-08-08,Organic,2025-08-07,Standard,Monthly,2025-10-05,Too expensive,13.99,199,81,1,divya,Australia,NSW,Female,1990-05-05,,0,,,1519.0,high
+0373-JOGNC,2024-08-03,Refferal,2028-08-02,Premium,Monthly,,,19.99,836,81,0,divya,Germany,Bavaria,Female,1973-03-17,,0,,,757.0,high
+0374-GPDYD,2020-12-11,Organic,2024-12-10,Standard,Monthly,,,13.99,1123,59,0,rohan,Germany,Berlin,Male,1989-06-26,,0,,,2088.0,med
+0375-TKDIA,2021-03-02,Organic,2025-03-01,Standard,Annual,,,13.99,1302,66,0,kavya,Australia,NSW,Female,1993-07-16,2024-12-28,0,20.0,1.0,2007.0,med
+0376-OIBKC,2021-01-03,Refferal,2023-01-03,Basic,Annual,,,6.99,1582,6,0,rahul,Canada,Ontario,Male,1994-02-02,,0,,,2065.0,low
+0377-ASFHF,2020-05-20,Organic,2023-05-20,Premium,Monthly,,,12.99,2139,62,0,divya,India,Karnataka,Female,1982-02-12,2023-04-08,0,80.0,1.0,2293.0,med
+0378-OXHVI,2020-03-12,Refferal,2024-03-11,Premium,Annual,2024-04-10,Switched to competitor,13.99,841,94,1,kavya,Germany,Bavaria,Female,1974-08-31,2023-12-05,0,10.0,1.0,1490.0,high
+0379-TQHVB,2021-03-21,Paid,2024-03-20,Premium,Annual,,,19.99,941,20,0,arjun,Canada,Quebec,Male,2002-09-23,2023-10-14,0,20.0,1.0,1988.0,low
+0380-FKFYV,2021-09-16,Paid,2023-09-16,Premium,Annual,2023-11-05,Switched to competitor,19.99,2017,84,1,divya,Germany,Bavaria,Female,1983-04-07,,0,,,780.0,high
+0381-PPSJL,2020-04-07,Organic,2023-04-07,Premium,Monthly,2023-05-03,Too expensive,9.99,1210,90,1,vikram,Germany,Bavaria,Male,1987-05-29,2023-02-24,1,100.0,1.0,1121.0,high
+0382-KNNWY,2023-04-28,Paid,2024-04-27,Basic,Monthly,2024-06-26,Too expensive,12.99,2238,91,1,sophia,India,Karnataka,Female,2002-04-30,2023-10-27,0,40.0,1.0,425.0,high
+0383-SBUKS,2021-12-23,Organic,2025-12-22,Standard,Monthly,,,12.99,1538,65,0,sneha,India,Gujarat,Female,1982-05-29,2025-07-30,0,10.0,1.0,1711.0,med
+0384-WVLDY,2022-03-22,Refferal,2026-03-21,Standard,Annual,,,13.99,2868,24,0,rahul,Canada,Quebec,Male,1996-05-15,,0,,,1622.0,low
+0385-PQMRI,2022-11-18,Refferal,2023-11-18,Basic,Monthly,,,9.99,1434,4,0,ananya,USA,Texas,Female,1999-02-06,2023-09-07,0,10.0,1.0,1381.0,low
+0386-XMJKD,2023-10-20,Refferal,2027-10-19,Premium,Annual,,,6.99,1811,34,0,ananya,Germany,Berlin,Female,1986-01-30,,0,,,1045.0,low
+0387-RSHKX,2022-01-03,Organic,2025-01-02,Premium,Annual,,,6.99,1889,41,0,ananya,Canada,Ontario,Female,1974-05-26,2024-08-15,1,60.0,1.0,1700.0,low
+0388-SIAQU,2023-05-29,Paid,2026-05-28,Basic,Annual,,,13.99,195,10,0,meera,Canada,Ontario,Female,1997-10-06,2025-09-24,0,10.0,1.0,1189.0,low
+0389-CIAPX,2024-05-15,Paid,2027-05-15,Premium,Annual,,,9.99,2986,8,0,meera,India,Maharashtra,Female,1997-10-11,2027-03-13,0,80.0,1.0,837.0,low
+0390-SHCMK,2020-01-17,Paid,2024-01-16,Basic,Annual,,,13.99,1505,17,0,divya,Germany,Berlin,Female,2002-10-28,2023-05-25,0,80.0,1.0,2417.0,low
+0391-IFBWZ,2021-03-26,Refferal,2025-03-25,Standard,Annual,,,19.99,1014,11,0,rohan,Germany,Berlin,Male,1981-04-04,,0,,,1983.0,low
+0392-VKAOG,2024-02-21,Refferal,2028-02-20,Premium,Monthly,2028-03-14,Moved away,12.99,1182,96,1,rahul,India,Karnataka,Male,1985-11-14,2027-09-27,1,100.0,1.0,1483.0,high
+0393-MDRZZ,2020-12-12,Organic,2023-12-12,Premium,Annual,,,9.99,165,85,0,meera,India,Karnataka,Female,1984-09-19,2023-03-10,0,20.0,1.0,2087.0,high
+0394-UWHOI,2022-09-12,Organic,2025-09-11,Premium,Annual,,,9.99,821,22,0,vikram,USA,California,Male,1978-05-15,2025-07-27,0,40.0,1.0,1448.0,low
+0395-SFAOV,2021-07-21,Organic,2025-07-20,Basic,Annual,,,9.99,2594,21,0,daniel,Germany,Bavaria,Male,1998-11-17,2025-03-16,0,60.0,1.0,1866.0,low
+0396-WGIEE,2020-01-30,Refferal,2023-01-29,Standard,Annual,,,6.99,1166,62,0,nikhil,Germany,Berlin,Male,1982-01-18,2022-10-10,1,80.0,1.0,2404.0,med
+0397-IHMCN,2023-05-04,Organic,2026-05-03,Standard,Annual,,,6.99,2492,86,0,arjun,Australia,Victoria,Male,1970-07-14,2026-02-13,0,40.0,1.0,1214.0,high
+0398-BIJVF,2021-11-14,Paid,2025-11-13,Basic,Annual,,,13.99,1065,40,0,kavya,Canada,Ontario,Female,1982-10-12,,0,,,1750.0,low
+0399-RQVEG,2024-07-29,Organic,2026-07-29,Premium,Annual,,,13.99,279,60,0,ananya,Canada,Quebec,Female,1979-03-30,2026-05-07,1,80.0,1.0,762.0,med
+0400-JLPHQ,2021-09-06,Organic,2025-09-05,Standard,Annual,,,6.99,1216,13,0,sneha,Australia,Victoria,Female,1971-12-31,2025-01-25,1,80.0,1.0,1819.0,low
+0401-KQJMN,2023-02-03,Organic,2025-02-02,Standard,Annual,,,13.99,1431,91,0,sophia,Australia,NSW,Female,1987-03-08,,0,,,1304.0,high
+0402-JLQVA,2024-05-14,Organic,2025-05-14,Premium,Monthly,2025-07-02,Moved away,9.99,1126,95,1,pooja,Australia,NSW,Female,1983-03-02,2025-01-04,1,100.0,1.0,414.0,high
+0403-CRUPU,2024-10-10,Refferal,2027-10-10,Premium,Annual,,,12.99,380,3,0,kavya,Germany,Bavaria,Female,1974-09-03,2027-02-15,0,20.0,1.0,689.0,low
+0404-GUZJG,2020-03-27,Paid,2021-03-27,Premium,Monthly,,,19.99,1699,40,0,pooja,USA,Texas,Female,1974-05-27,2020-09-30,0,80.0,1.0,2347.0,low
+0405-DFYHE,2024-10-11,Paid,2028-10-10,Premium,Annual,,,12.99,2344,8,0,kavya,Germany,Berlin,Female,1979-02-15,,0,,,688.0,low
+0406-AJJJF,2022-03-21,Refferal,2023-03-21,Standard,Monthly,,,9.99,1225,30,0,pooja,India,Delhi,Female,1984-05-27,2022-12-27,1,20.0,1.0,1623.0,low
+0407-FXHJM,2020-10-09,Refferal,2024-10-08,Basic,Annual,,,19.99,1427,38,0,rahul,Germany,Bavaria,Male,1993-10-25,2024-08-08,0,60.0,1.0,2151.0,low
+0408-WGPTV,2023-02-03,Refferal,2026-02-02,Premium,Monthly,,,6.99,2486,62,0,pooja,Germany,Berlin,Female,1994-02-28,,0,,,1304.0,med
+0409-RNBUA,2020-10-14,Refferal,2024-10-13,Basic,Annual,,,6.99,1413,69,0,pooja,Australia,Victoria,Female,1987-01-14,2024-08-29,0,40.0,1.0,2146.0,med
+0410-NDQII,2021-03-19,Refferal,2024-03-18,Standard,Monthly,,,13.99,464,22,0,sneha,Canada,Ontario,Female,1983-03-13,2023-06-15,1,40.0,1.0,1990.0,low
+0411-GBLUG,2023-02-03,Paid,2024-02-03,Basic,Monthly,,,6.99,1935,51,0,james,Canada,Ontario,Male,1983-04-18,,0,,,1304.0,med
+0412-AWJMP,2023-02-18,Refferal,2027-02-17,Basic,Monthly,,,13.99,1242,54,0,sophia,India,Tamil Nadu,Female,1998-03-04,2026-10-29,0,100.0,1.0,1289.0,med
+0413-ILSFC,2023-02-21,Paid,2027-02-20,Basic,Monthly,,,12.99,942,2,0,priya,India,Karnataka,Female,1998-03-06,,0,,,1286.0,low
+0414-XMYZD,2023-06-15,Refferal,2025-06-14,Premium,Monthly,,,9.99,1718,6,0,emily,Australia,Victoria,Female,1984-12-22,,0,,,1172.0,low
+0415-TAFDF,2024-04-19,Organic,2027-04-19,Basic,Monthly,,,13.99,1602,51,0,emily,Germany,Bavaria,Female,1971-06-07,,0,,,863.0,med
+0416-UNYWM,2021-02-05,Organic,2024-02-05,Basic,Annual,,,9.99,2536,48,0,manish,Canada,Quebec,Male,1982-11-01,2023-07-31,0,80.0,1.0,2032.0,low
+0417-ZXSXK,2022-02-28,Refferal,2024-02-28,Standard,Monthly,,,9.99,2992,87,0,aarav,India,Gujarat,Male,1999-07-17,,0,,,1644.0,high
+0418-TQVXT,2023-09-29,Refferal,2027-09-28,Standard,Annual,,,6.99,1012,4,0,rohan,Australia,Victoria,Male,1994-10-22,2027-03-24,1,80.0,1.0,1066.0,low
+0419-SOWLS,2023-03-12,Refferal,2027-03-11,Basic,Annual,2027-04-12,Switched to competitor,12.99,480,80,1,emily,Canada,Ontario,Female,1974-09-08,2027-01-18,0,80.0,1.0,1492.0,high
+0420-QHGBO,2024-11-21,Organic,2027-11-21,Standard,Annual,,,9.99,1490,100,0,priya,Canada,Quebec,Female,1978-08-20,,0,,,647.0,high
+0421-LBNPD,2023-04-30,Organic,2025-04-29,Standard,Annual,2025-06-19,Switched to competitor,6.99,2700,74,1,rahul,Germany,Bavaria,Male,1978-12-26,2024-11-23,0,60.0,1.0,781.0,high
+0422-JACJN,2021-08-22,Paid,2025-08-21,Premium,Monthly,,,6.99,898,28,0,sophia,Canada,Ontario,Female,1979-11-21,,0,,,1834.0,low
+0423-AXTKH,2022-04-19,Refferal,2025-04-18,Basic,Monthly,2025-05-14,Moved away,19.99,1608,77,1,keshav,Canada,Quebec,Male,1983-09-22,,0,,,1121.0,high
+0424-RKYET,2022-04-07,Paid,2023-04-07,Premium,Annual,,,9.99,2467,8,0,emily,Australia,NSW,Female,1992-07-29,2022-07-31,0,40.0,1.0,1606.0,low
+0425-WKCRT,2022-07-04,Refferal,2026-07-03,Standard,Monthly,2026-09-01,Moved away,19.99,2613,77,1,arjun,Germany,Bavaria,Male,1994-03-07,2026-04-13,0,100.0,1.0,1520.0,high
+0426-JZJQQ,2023-09-01,Paid,2025-08-31,Basic,Annual,,,9.99,296,34,0,meera,Germany,Bavaria,Female,1994-06-15,2024-12-16,0,100.0,1.0,1094.0,low
+0427-UDSJW,2021-04-02,Organic,2023-04-02,Premium,Annual,,,6.99,2570,33,0,vikram,Canada,Quebec,Male,1991-09-17,2022-09-11,0,100.0,1.0,1976.0,low
+0428-FGQJO,2022-06-06,Refferal,2025-06-05,Standard,Monthly,,,9.99,2040,76,0,neha,Canada,Quebec,Female,1996-10-14,,0,,,1546.0,high
+0429-QOFJV,2021-11-17,Refferal,2025-11-16,Standard,Monthly,2025-12-09,Moved away,12.99,1230,85,1,pooja,Canada,Ontario,Female,1971-03-27,2025-06-20,0,10.0,1.0,1483.0,high
+0430-YSSWM,2022-05-29,Paid,2025-05-28,Standard,Annual,,,6.99,1566,98,0,arjun,India,Delhi,Male,1978-04-29,,0,,,1554.0,high
+0431-HVCNE,2022-03-17,Refferal,2026-03-16,Premium,Monthly,,,6.99,2845,4,0,sophia,USA,Texas,Female,1975-10-19,2025-09-30,1,40.0,1.0,1627.0,low
+0432-BPZDC,2023-02-25,Refferal,2027-02-24,Basic,Monthly,,,12.99,212,91,0,divya,Canada,Ontario,Female,1986-11-11,,0,,,1282.0,high
+0433-CJMXC,2020-01-09,Organic,2022-01-08,Basic,Monthly,,,12.99,2918,52,0,sophia,Canada,Quebec,Female,1998-09-16,2021-07-16,0,40.0,1.0,2425.0,med
+0434-QCVBT,2020-01-09,Organic,2022-01-08,Premium,Monthly,,,6.99,2923,11,0,james,USA,Florida,Male,1977-01-24,2021-06-10,0,100.0,1.0,2425.0,low
+0435-PDAAP,2022-09-23,Refferal,2025-09-22,Basic,Monthly,2025-11-01,Too expensive,12.99,2039,80,1,daniel,Australia,NSW,Male,1996-01-08,,0,,,1135.0,high
+0436-TSQVX,2022-05-12,Refferal,2023-05-12,Standard,Monthly,,,12.99,2986,44,0,james,USA,Texas,Male,1976-08-20,2022-12-17,0,80.0,1.0,1571.0,low
+0437-JLGGE,2020-05-09,Organic,2022-05-09,Standard,Annual,,,9.99,2329,65,0,pooja,USA,Florida,Female,1985-04-28,2021-11-11,0,80.0,1.0,2304.0,med
+0438-YYQXT,2024-09-13,Refferal,2028-09-12,Basic,Annual,,,13.99,2200,87,0,rohan,India,Karnataka,Male,2000-09-03,,0,,,716.0,high
+0439-PHGQB,2022-03-17,Organic,2024-03-16,Premium,Annual,,,19.99,499,33,0,nikhil,Australia,Victoria,Male,1985-10-08,2023-08-02,1,60.0,1.0,1627.0,low
+0440-IWOTK,2023-03-21,Refferal,2027-03-20,Premium,Annual,,,19.99,1324,63,0,rohan,Canada,Ontario,Male,2002-06-07,,0,,,1258.0,med
+0441-HHTVS,2024-02-04,Refferal,2026-02-03,Basic,Annual,,,19.99,1753,6,0,keshav,Germany,Bavaria,Male,1989-07-25,2025-09-09,0,100.0,1.0,938.0,low
+0442-BBFCL,2021-07-14,Paid,2022-07-14,Basic,Annual,,,13.99,2739,26,0,aarav,USA,California,Male,1980-09-07,,0,,,1873.0,low
+0443-ZMYBR,2021-01-07,Refferal,2024-01-07,Basic,Annual,,,6.99,1067,21,0,emily,Australia,Victoria,Female,1986-11-08,2023-09-05,1,20.0,1.0,2061.0,low
+0444-AREJX,2020-11-04,Refferal,2021-11-04,Standard,Annual,,,13.99,201,13,0,arjun,Germany,Bavaria,Male,1978-09-18,,0,,,2125.0,low
+0445-XFUNV,2024-09-18,Organic,2026-09-18,Basic,Annual,,,12.99,2727,55,0,arjun,Australia,Victoria,Male,1985-10-06,2026-01-12,0,20.0,1.0,711.0,med
+0446-EBPNZ,2021-06-03,Organic,2025-06-02,Standard,Annual,,,9.99,1829,38,0,emily,Australia,NSW,Female,1971-11-17,2024-10-14,0,60.0,1.0,1914.0,low
+0447-HAOEY,2022-05-12,Paid,2023-05-12,Standard,Annual,,,6.99,2247,75,0,vikram,Canada,Quebec,Male,1975-09-23,,0,,,1571.0,high
+0448-DFXQP,2021-10-12,Organic,2022-10-12,Standard,Annual,,,6.99,2061,45,0,nikhil,India,Karnataka,Male,1990-10-15,,0,,,1783.0,low
+0449-XVSAZ,2023-04-17,Refferal,2026-04-16,Premium,Monthly,,,9.99,1824,14,0,rohan,Germany,Berlin,Male,1985-01-02,,0,,,1231.0,low
+0450-XVADZ,2023-02-16,Refferal,2026-02-15,Standard,Monthly,2026-03-04,Moved away,13.99,1846,80,1,meera,Australia,NSW,Female,1994-09-17,,0,,,1112.0,high
+0451-OTUQQ,2020-09-09,Organic,2022-09-09,Premium,Annual,,,13.99,1977,64,0,daniel,Canada,Ontario,Male,1994-05-13,2022-05-04,1,20.0,1.0,2181.0,med
+0452-YAGEU,2020-06-29,Refferal,2022-06-29,Basic,Annual,,,13.99,2553,81,0,sneha,USA,California,Female,1974-12-14,,0,,,2253.0,high
+0453-TXLEF,2021-11-27,Refferal,2023-11-27,Basic,Monthly,,,9.99,2624,99,0,keshav,Australia,Victoria,Male,1981-04-03,2023-09-13,1,60.0,1.0,1737.0,high
+0454-TNYGS,2023-09-16,Paid,2027-09-15,Basic,Annual,,,12.99,2150,88,0,rahul,Australia,NSW,Male,1982-12-11,,0,,,1079.0,high
+0455-XARXZ,2024-05-13,Paid,2025-05-13,Standard,Monthly,,,13.99,2123,36,0,emily,USA,California,Female,1985-09-09,2024-12-29,0,80.0,1.0,839.0,low
+0456-BZTRU,2020-02-22,Paid,2023-02-21,Premium,Annual,2023-03-03,Switched to competitor,12.99,552,75,1,james,Germany,Berlin,Male,1978-04-12,,0,,,1105.0,high
+0457-SRWSY,2024-05-16,Paid,2025-05-16,Premium,Monthly,,,9.99,923,3,0,kavya,India,Delhi,Female,1986-09-04,,0,,,836.0,low
+0458-RYPKT,2024-08-14,Paid,2025-08-14,Premium,Annual,,,6.99,2863,43,0,meera,Canada,Ontario,Female,1974-01-25,2025-05-28,1,100.0,1.0,746.0,low
+0459-HMUVP,2022-08-11,Organic,2024-08-10,Premium,Monthly,2024-09-27,Switched to competitor,6.99,1352,98,1,vikram,Canada,Quebec,Male,1980-12-10,,0,,,778.0,high
+0460-WYAZT,2021-11-06,Paid,2025-11-05,Basic,Monthly,2025-12-06,Too expensive,9.99,2236,81,1,manish,Canada,Quebec,Male,2000-10-07,2025-07-19,1,10.0,1.0,1491.0,high
+0461-BVUPD,2023-07-25,Refferal,2027-07-24,Basic,Annual,,,9.99,504,51,0,vikram,Germany,Berlin,Male,1971-11-19,2027-06-05,0,100.0,1.0,1132.0,med
+0462-GEPZE,2020-01-20,Refferal,2023-01-19,Standard,Monthly,,,9.99,536,37,0,keshav,Australia,NSW,Male,1990-01-23,,0,,,2414.0,low
+0463-KPOQM,2020-06-14,Paid,2022-06-14,Basic,Monthly,,,19.99,2610,33,0,vikram,Australia,Victoria,Male,1990-11-29,2021-12-08,0,20.0,1.0,2268.0,low
+0464-ANUBM,2024-10-30,Refferal,2027-10-30,Premium,Monthly,2027-11-01,Switched to competitor,6.99,879,96,1,divya,India,Delhi,Female,1996-03-14,2027-06-19,0,100.0,1.0,1097.0,high
+0465-VDORQ,2021-06-01,Organic,2023-06-01,Premium,Annual,,,13.99,1946,16,0,rohan,USA,Florida,Male,1999-03-15,2022-09-12,1,20.0,1.0,1916.0,low
+0466-HLZGZ,2024-02-28,Organic,2028-02-27,Premium,Annual,,,19.99,2457,44,0,pooja,Australia,Victoria,Female,1970-10-25,,0,,,914.0,low
+0467-YGVSI,2021-02-15,Refferal,2022-02-15,Premium,Annual,,,9.99,867,4,0,arjun,India,Maharashtra,Male,1974-01-20,2021-05-07,1,10.0,1.0,2022.0,low
+0468-XMMYB,2022-11-13,Paid,2026-11-12,Standard,Annual,,,12.99,2883,2,0,priya,USA,Florida,Female,1977-08-02,,0,,,1386.0,low
+0469-AEIYX,2024-02-14,Organic,2026-02-13,Standard,Monthly,,,19.99,689,52,0,kavya,Canada,Quebec,Female,1988-07-29,,0,,,928.0,med
+0470-KOUHD,2024-05-09,Refferal,2026-05-09,Premium,Monthly,,,12.99,1366,10,0,nikhil,Canada,Quebec,Male,1992-05-12,2025-11-15,0,40.0,1.0,843.0,low
+0471-RSLOC,2020-09-12,Refferal,2022-09-12,Premium,Annual,,,19.99,778,44,0,meera,USA,Texas,Female,1993-12-01,,0,,,2178.0,low
+0472-RMNEF,2024-02-27,Organic,2025-02-26,Basic,Monthly,,,13.99,211,9,0,sneha,Germany,Berlin,Female,2000-08-30,,0,,,915.0,low
+0473-XOOSE,2023-01-23,Paid,2027-01-22,Basic,Monthly,,,13.99,1123,5,0,rahul,Canada,Ontario,Male,1978-05-06,,0,,,1315.0,low
+0474-HCYAH,2020-05-25,Refferal,2023-05-25,Standard,Monthly,,,12.99,1034,21,0,emily,Australia,NSW,Female,1987-05-23,,0,,,2288.0,low
+0475-QPWPN,2021-07-29,Paid,2023-07-29,Standard,Annual,,,12.99,998,4,0,sophia,Canada,Ontario,Female,1990-09-06,2023-03-02,0,20.0,1.0,1858.0,low
+0476-PYJYM,2022-09-14,Refferal,2026-09-13,Standard,Annual,,,19.99,2893,21,0,sophia,India,Tamil Nadu,Female,1974-09-26,,0,,,1446.0,low
+0477-VFIGX,2024-04-10,Organic,2027-04-10,Basic,Annual,,,6.99,449,67,0,arjun,Germany,Bavaria,Male,1979-02-26,,0,,,872.0,med
+0478-MSGFN,2021-01-03,Organic,2022-01-03,Basic,Annual,,,13.99,1007,64,0,sophia,Canada,Ontario,Female,2001-11-14,2021-11-08,0,10.0,1.0,2065.0,med
+0479-EZFNK,2023-01-12,Refferal,2026-01-11,Standard,Monthly,,,6.99,599,60,0,arjun,Australia,NSW,Male,2002-10-17,2025-04-24,0,60.0,1.0,1326.0,med
+0480-YUTQC,2021-07-21,Organic,2024-07-20,Standard,Monthly,,,6.99,2805,43,0,sophia,India,Gujarat,Female,1997-06-11,2023-11-19,0,20.0,1.0,1866.0,low
+0481-DHEGG,2023-06-02,Paid,2025-06-01,Premium,Annual,,,12.99,606,2,0,divya,Australia,NSW,Female,2000-06-01,2025-04-09,0,100.0,1.0,1185.0,low
+0482-HPYRE,2021-04-16,Organic,2022-04-16,Basic,Annual,,,13.99,2671,22,0,ananya,Canada,Quebec,Female,1980-03-02,2021-10-19,1,100.0,1.0,1962.0,low
+0483-YUFBA,2023-05-03,Organic,2024-05-02,Premium,Annual,,,6.99,184,44,0,manish,India,Gujarat,Male,1992-03-10,2023-07-27,0,100.0,1.0,1215.0,low
+0484-RQTMU,2021-05-27,Organic,2025-05-26,Standard,Annual,,,6.99,1346,97,0,neha,Australia,NSW,Female,1990-11-09,2025-02-22,0,80.0,1.0,1921.0,high
+0485-JDMUX,2021-06-29,Paid,2025-06-28,Standard,Monthly,,,19.99,2078,69,0,neha,USA,Florida,Female,1977-12-25,,0,,,1888.0,med
+0486-VGRFJ,2023-05-06,Refferal,2027-05-05,Premium,Annual,2027-07-03,Too expensive,12.99,639,100,1,sneha,Australia,Victoria,Female,1974-07-08,2026-12-28,1,100.0,1.0,1519.0,high
+0487-RBYTD,2021-07-21,Refferal,2024-07-20,Basic,Monthly,,,19.99,1008,96,0,divya,USA,Texas,Female,1985-09-27,,0,,,1866.0,high
+0488-ADTCI,2024-06-20,Paid,2025-06-20,Basic,Annual,,,6.99,2796,57,0,aarav,USA,Florida,Male,1991-09-02,2025-03-17,1,10.0,1.0,801.0,med
+0489-OMGSF,2023-08-08,Organic,2024-08-07,Standard,Annual,,,6.99,2854,30,0,daniel,Germany,Berlin,Male,1977-12-16,2024-04-14,1,60.0,1.0,1118.0,low
+0490-IDUZK,2021-02-22,Organic,2024-02-22,Premium,Annual,,,19.99,1936,71,0,kavya,Germany,Berlin,Female,1990-01-10,2023-11-20,0,60.0,1.0,2015.0,high
+0491-KQRSW,2023-09-15,Refferal,2026-09-14,Premium,Monthly,,,12.99,1372,21,0,rohan,Canada,Ontario,Male,1970-07-03,2026-01-25,1,80.0,1.0,1080.0,low
+0492-ZUYQG,2021-11-11,Organic,2023-11-11,Standard,Monthly,2023-12-07,Too expensive,13.99,329,82,1,rahul,Canada,Quebec,Male,1998-03-18,,0,,,756.0,high
+0493-YDSYQ,2020-11-02,Organic,2022-11-02,Standard,Monthly,,,6.99,2712,64,0,keshav,Canada,Quebec,Male,1989-05-18,2022-08-29,0,60.0,1.0,2127.0,med
+0494-TGDTV,2024-02-24,Refferal,2028-02-23,Basic,Monthly,,,19.99,1515,35,0,rahul,Canada,Ontario,Male,1996-12-09,2027-10-19,0,40.0,1.0,918.0,low
+0495-XOCDN,2021-09-27,Paid,2025-09-26,Standard,Monthly,,,13.99,2625,37,0,meera,Australia,NSW,Female,1974-07-29,2025-05-29,1,80.0,1.0,1798.0,low
+0496-NCAWI,2022-09-22,Refferal,2024-09-21,Basic,Monthly,,,12.99,1954,25,0,ananya,Australia,Victoria,Female,1983-04-25,2024-06-26,1,20.0,1.0,1438.0,low
+0497-JXFCN,2020-12-04,Refferal,2022-12-04,Standard,Monthly,,,13.99,546,43,0,sophia,Canada,Ontario,Female,1970-06-16,2022-07-28,0,40.0,1.0,2095.0,low
+0498-VSDMP,2022-10-27,Paid,2026-10-26,Premium,Monthly,,,12.99,628,44,0,daniel,India,Delhi,Male,1990-10-06,,0,,,1403.0,low
+0499-JWCVL,2023-03-07,Refferal,2026-03-06,Basic,Annual,2026-04-04,Moved away,19.99,315,94,1,priya,USA,Texas,Female,1983-11-29,2026-01-20,0,60.0,1.0,1124.0,high
+0500-AAYAP,2020-10-25,Organic,2023-10-25,Standard,Monthly,,,19.99,336,22,0,sophia,India,Delhi,Female,1997-07-27,2023-03-14,1,60.0,1.0,2135.0,low
+0501-PFIXX,2023-08-13,Organic,2026-08-12,Premium,Annual,,,13.99,1072,30,0,kavya,India,Gujarat,Female,1993-04-19,2026-05-27,0,100.0,1.0,1113.0,low
+0502-VELVC,2022-07-27,Organic,2025-07-26,Basic,Monthly,,,19.99,1845,12,0,rahul,Canada,Ontario,Male,1983-05-12,2025-03-22,0,20.0,1.0,1495.0,low
+0503-TRODH,2024-04-23,Organic,2028-04-22,Standard,Annual,,,13.99,2833,2,0,manish,India,Karnataka,Male,1978-06-07,2027-09-28,0,20.0,1.0,859.0,low
+0504-HTXYN,2023-05-26,Refferal,2026-05-25,Basic,Annual,2026-06-07,Switched to competitor,6.99,1861,99,1,rahul,Australia,Victoria,Male,1984-07-27,2026-04-19,1,10.0,1.0,1108.0,high
+0505-GEGQW,2020-08-12,Organic,2023-08-12,Premium,Annual,,,13.99,1250,96,0,ananya,USA,Florida,Female,1987-04-13,2022-11-03,1,20.0,1.0,2209.0,high
+0506-PBENV,2022-09-06,Refferal,2023-09-06,Standard,Annual,,,6.99,1164,6,0,aarav,Germany,Berlin,Male,2002-02-26,,0,,,1454.0,low
+0507-XEZZM,2020-12-21,Paid,2024-12-20,Premium,Annual,,,6.99,1581,50,0,aarav,Canada,Quebec,Male,1974-08-19,2024-07-12,0,80.0,1.0,2078.0,med
+0508-BUCQA,2024-11-07,Organic,2028-11-06,Premium,Annual,,,19.99,853,28,0,sophia,Canada,Ontario,Female,1981-06-20,2028-03-28,1,20.0,1.0,661.0,low
+0509-MTZRG,2020-03-06,Refferal,2024-03-05,Premium,Annual,,,12.99,1833,43,0,arjun,India,Gujarat,Male,1994-09-13,2023-07-01,0,100.0,1.0,2368.0,low
+0510-EJNNQ,2024-06-10,Paid,2025-06-10,Basic,Monthly,,,19.99,2426,17,0,neha,Canada,Quebec,Female,1999-01-19,,0,,,811.0,low
+0511-YFPZP,2023-05-31,Refferal,2024-05-30,Premium,Monthly,,,12.99,927,47,0,james,USA,Texas,Male,1973-12-07,2023-11-24,1,100.0,1.0,1187.0,low
+0512-BIGUN,2020-04-30,Refferal,2022-04-30,Premium,Monthly,,,12.99,1550,20,0,meera,India,Gujarat,Female,1995-01-28,,0,,,2313.0,low
+0513-QYMNP,2022-04-09,Refferal,2026-04-08,Standard,Annual,,,9.99,2301,44,0,neha,Canada,Quebec,Female,1999-09-13,2025-08-07,1,100.0,1.0,1604.0,low
+0514-OYBHM,2021-01-05,Paid,2024-01-05,Premium,Annual,,,9.99,628,76,0,manish,Germany,Berlin,Male,1980-04-02,2023-10-05,1,60.0,1.0,2063.0,high
+0515-UZFGC,2021-04-18,Refferal,2025-04-17,Standard,Monthly,,,9.99,2045,67,0,priya,Australia,NSW,Female,1988-04-28,2024-08-15,0,10.0,1.0,1960.0,med
+0516-MVTZV,2021-12-08,Refferal,2025-12-07,Basic,Annual,,,9.99,211,29,0,meera,Australia,NSW,Female,1992-08-04,,0,,,1726.0,low
+0517-AULBW,2021-10-15,Paid,2025-10-14,Standard,Annual,2025-10-21,Switched to competitor,13.99,251,99,1,ananya,USA,Texas,Female,1987-06-06,,0,,,1467.0,high
+0518-SNSHU,2024-03-28,Paid,2028-03-27,Premium,Monthly,,,19.99,761,98,0,arjun,Australia,Victoria,Male,1997-03-18,2027-08-27,1,100.0,1.0,885.0,high
+0519-DFTUQ,2023-10-30,Paid,2027-10-29,Standard,Annual,,,12.99,1936,27,0,aarav,Germany,Berlin,Male,1975-06-05,,0,,,1035.0,low
+0520-THXHK,2024-04-18,Organic,2028-04-17,Premium,Monthly,,,9.99,1946,60,0,james,Australia,Victoria,Male,1999-11-10,,0,,,864.0,med
+0521-WYHDF,2021-06-12,Refferal,2023-06-12,Basic,Monthly,,,12.99,1474,30,0,daniel,USA,Florida,Male,2000-08-22,2023-05-06,1,80.0,1.0,1905.0,low
