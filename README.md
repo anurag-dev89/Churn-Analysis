@@ -238,11 +238,7 @@ Customer-Churn-Analysis/
 
 ## 📷 Dashboard Preview
 
-Add your exported Tableau dashboard screenshot below:
-
-```markdown
-![Customer Churn Dashboard](dashboard.png)
-```
+<img width="1400" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/7a827f17-2474-420a-92a7-fd3fe830d189" />
 
 ---
 
